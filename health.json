@@ -3,9 +3,9 @@
         "name": "True North QA mirror health",
         "plugin_version": "0.1.3",
         "schema": "tnqa-health-1",
-        "generated_at_utc": "2026-08-25T16:27:21+00:00",
+        "generated_at_utc": "2026-08-25T16:46:12+00:00",
         "host": "audit.truenorthsos.com",
-        "fingerprint": "c044956dcab92ebb229cfa117e47f7e371e49013dccf6050093b34cf45369c9b"
+        "fingerprint": "cd935e1108441f3e703ac81b8c5f5c63e6f8cf2ab5793916ee71581333a367f4"
     },
     "mirror": {
         "status": "ok",
@@ -15,13 +15,13 @@
     "files": {
         "detailed": {
             "path": "latest.json",
-            "bytes": 1116820,
-            "sha256": "237b683156ba3ba0a8420481e26a7a09addf96cdb873506e44f2443ead4532a5"
+            "bytes": 1116817,
+            "sha256": "e874eb7ef09c04f1c613d038e323e6185e1429123d97554f5949518b2a06a939"
         },
         "compact": {
             "path": "latest-compact.json",
-            "bytes": 25394,
-            "sha256": "29d780eed565f0f2c4a5f07b5e854ecbe9bbf66e89ccb4bc4f4d5b22cc6db16b"
+            "bytes": 25395,
+            "sha256": "99d9d718136ee2a6d0dfa232b8407b8ef750d0277c2b8f382d000170a04628ec"
         }
     },
     "privacy": {
