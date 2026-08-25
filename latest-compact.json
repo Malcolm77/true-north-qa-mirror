@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-08-25T15:21:58+00:00",
+        "generated_at_utc": "2026-08-25T15:34:02+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "79ee22d133d17b6c3cd907826811ce655161116fa585388cc99fc00f3b3a43ea",
-        "generation_ms": 692.1,
+        "fingerprint": "df6aad06e3b3817fada8260ee94fced93e0b29126b58b481de48a277b7b49f07",
+        "generation_ms": 1157,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -16,7 +16,7 @@
         "description": "The Tribe Network",
         "home_url": "https://audit.truenorthsos.com/",
         "site_url": "https://audit.truenorthsos.com/",
-        "blog_public": 1,
+        "blog_public": 0,
         "users_can_register": false,
         "permalink_structure": "/%postname%/",
         "show_on_front": "page",
@@ -107,6 +107,11 @@
             "name": "V3.3 - Controlled Tribe Hub + Portal Lockdown",
             "active": true,
             "scope": "global"
+        },
+        {
+            "name": "V3.4 - Staging Hardening + Hostinger Theme Cleanup",
+            "active": true,
+            "scope": "global"
         }
     ],
     "governance_pages": {
@@ -172,7 +177,7 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 30.4,
+                "fetch_ms": 101.1,
                 "html_bytes": 1216084,
                 "html_sha256": "93a637dafb0b4d13cef28f4790f112665953688ddf935428f4d0b3196ac234d1",
                 "visible_text_chars": 11896,
@@ -414,7 +419,7 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 30.4,
+                    "fetch_ms": 101.1,
                     "html_bytes": 1216084,
                     "dom_elements": 399,
                     "scripts": 0,
@@ -509,7 +514,7 @@
         }
     ],
     "risk_flags": {
-        "staging_indexable": true,
+        "staging_indexable": false,
         "placeholder_strings_found": [
             "trans-menu",
             "trans-contacts",
@@ -568,6 +573,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-08-25T15:21:59+00:00"
+        "generated_at_utc": "2026-08-25T15:34:02+00:00"
     }
 }
