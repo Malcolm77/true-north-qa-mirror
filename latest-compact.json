@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-08-26T10:43:40+00:00",
+        "generated_at_utc": "2026-08-26T12:08:55+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
         "fingerprint": "cd935e1108441f3e703ac81b8c5f5c63e6f8cf2ab5793916ee71581333a367f4",
-        "generation_ms": 953.5,
+        "generation_ms": 805,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -182,7 +182,7 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 94.9,
+                "fetch_ms": 27,
                 "html_bytes": 1227548,
                 "html_sha256": "ae2c7e30e53a51312957ebc3604e88e2afb0e8b1a62565e29cffca06e0ecd9a7",
                 "visible_text_chars": 11671,
@@ -388,7 +388,7 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 94.9,
+                    "fetch_ms": 27,
                     "html_bytes": 1227548,
                     "dom_elements": 379,
                     "scripts": 0,
@@ -511,6 +511,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-08-26T10:43:41+00:00"
+        "generated_at_utc": "2026-08-26T12:08:55+00:00"
     }
 }
