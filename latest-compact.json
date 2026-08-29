@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-08-29T10:24:48+00:00",
+        "generated_at_utc": "2026-08-29T10:51:22+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "e1980cdebb18fe14e6a8f49eff71ec1100122dea1be6a4e7b75c07ef035a605a",
-        "generation_ms": 663.6,
+        "fingerprint": "6dbd0837492c69c1692b2850eb415b898b1f2bf3ef3a2f920b9b7b4bed6bf37b",
+        "generation_ms": 987.7,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -58,6 +58,9 @@
         },
         {
             "name": "True North — Life SOS Required Action Spotlight"
+        },
+        {
+            "name": "True North — QA Access Matrix"
         },
         {
             "name": "True North QA Reporter"
@@ -201,7 +204,7 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 40.1,
+                "fetch_ms": 35.5,
                 "html_bytes": 1233412,
                 "html_sha256": "045fde6991c14ae4447494727a762ac1a40eedc5d4397e610ef8157ebfbc29b9",
                 "visible_text_chars": 11694,
@@ -422,7 +425,7 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 40.1,
+                    "fetch_ms": 35.5,
                     "html_bytes": 1233412,
                     "dom_elements": 383,
                     "scripts": 0,
@@ -545,6 +548,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-08-29T10:24:48+00:00"
+        "generated_at_utc": "2026-08-29T10:51:22+00:00"
     }
 }
