@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-08-29T08:30:36+00:00",
+        "generated_at_utc": "2026-08-29T08:32:32+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "e457600e733716f32881bcd8e34d8963382c97e2461d1ca73a99aeeff78f5035",
-        "generation_ms": 883.8,
+        "fingerprint": "c742d55c4b95abd81df2c49e7d4990ffa4aec539d92083fd1f8b6aba69c12591",
+        "generation_ms": 996.7,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -195,7 +195,7 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 50.7,
+                "fetch_ms": 41.7,
                 "html_bytes": 1227641,
                 "html_sha256": "a5868a445a0d7b7e6359372a45dd2fefe524d362355d18ef5721f0e49b0dda59",
                 "visible_text_chars": 11671,
@@ -401,7 +401,7 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 50.7,
+                    "fetch_ms": 41.7,
                     "html_bytes": 1227641,
                     "dom_elements": 379,
                     "scripts": 0,
@@ -524,6 +524,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-08-29T08:30:36+00:00"
+        "generated_at_utc": "2026-08-29T08:32:33+00:00"
     }
 }
