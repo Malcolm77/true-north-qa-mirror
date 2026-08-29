@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-08-29T14:04:17+00:00",
+        "generated_at_utc": "2026-08-29T14:07:06+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "6b3711792598e6e915927ea34074c782b42310a1e932a2a9d950522c80c0b22c",
-        "generation_ms": 645.7,
+        "fingerprint": "e7250324a359b0f729beee5aec9b5f6a5e60f42e462dc9349ed50e3d89a320fa",
+        "generation_ms": 889.3,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -55,6 +55,9 @@
         },
         {
             "name": "True North Control Plane"
+        },
+        {
+            "name": "True North — Family Alpha Gateway"
         },
         {
             "name": "True North — Life SOS Required Action Spotlight"
@@ -204,7 +207,7 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 36.6,
+                "fetch_ms": 43.1,
                 "html_bytes": 1233412,
                 "html_sha256": "c669bec4b633009c82a4c4051c49711a445ddaa60ed1423f6ff4485611bf17a3",
                 "visible_text_chars": 11694,
@@ -425,7 +428,7 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 36.6,
+                    "fetch_ms": 43.1,
                     "html_bytes": 1233412,
                     "dom_elements": 383,
                     "scripts": 0,
@@ -548,6 +551,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-08-29T14:04:17+00:00"
+        "generated_at_utc": "2026-08-29T14:07:06+00:00"
     }
 }
