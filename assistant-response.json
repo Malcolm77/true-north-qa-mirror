@@ -1,14 +1,10 @@
 {
-    "command_id": "2026-08-31-family-beta-v102-regression-010",
-    "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T13:19:18+00:00",
-    "ok": true,
-    "status": "completed",
-    "result": {
-        "ok": true,
-        "http_code": 200,
-        "fingerprint": "3c85741f97032075bff2343ab5cb4c8272c46f2fe7f9050e074bd229b4fa85e6"
-    },
+    "command_id": "invalid",
+    "action": "",
+    "completed_at_utc": "2026-08-31T13:40:19+00:00",
+    "ok": false,
+    "status": "rejected_not_json_object",
+    "result": [],
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
 }
