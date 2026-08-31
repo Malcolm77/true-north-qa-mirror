@@ -1,8 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-family-beta-v110-final-family-release-audit-010",
+  "id": "2026-08-31-family-beta-v110-release-audit-011",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T13:38:00Z",
-  "expires_at_utc": "2026-08-31T16:38:00Z",
-  "note": "Final Family Beta V1.1.0 release audit after founder replacement install. Refresh all public-safe staging evidence. Verify True North — Family Beta V1 is active and its source fingerprint changed from prior V1.0.2 fingerprint adf3df3465e0418e75f1b91d8ccd22b3de7bd5f60a35878a6742ab25d309615d; protected Control Plane components and all six protected V3 snippets remain sealed-match; blog_public remains 0; users_can_register remains false; Home, anonymous Tribe boundary and protected Life SOS routes remain healthy; governance Constitution, Standards, Terms and Privacy remain present as drafts; all high-risk production flags remain false and unexpected_on empty; no payment, external AI, public UGC, member upload or public application activation; no membership/founding records are to be mutated. Deep safe QA only; no mutation authority. This is the final gate before giving the family beta link to testers."
+  "issued_at_utc": "2026-08-31T13:41:00Z",
+  "expires_at_utc": "2026-08-31T16:41:00Z",
+  "note": "Final safe QA after Family Beta V1.1.0 install. No mutation."
+}
