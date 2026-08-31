@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-fixpack-v015-staging-final-regression-009",
+  "id": "2026-08-31-family-beta-v102-regression-010",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T11:13:00Z",
-  "expires_at_utc": "2026-08-31T19:13:00Z",
-  "note": "Final staging regression after installing Finish-Line Fix Pack v0.1.5. Verify the installed fix-pack fingerprint changed from v0.1.4, protected Control Plane components and all six protected V3 snippets remain sealed-match, Home/Tribe/Life SOS routes remain healthy, governance drafts and feature flags remain unchanged, raw placeholders/newsletter remain absent, and no member/application/role/payment/AI/Life SOS state mutation occurred. Deep safe QA only; no mutation authority."
+  "issued_at_utc": "2026-08-31T12:24:00Z",
+  "expires_at_utc": "2026-08-31T20:24:00Z",
+  "note": "Fresh regression after installing True North — Family Beta V1.0.2 on staging only. Verify the active plugin tree fingerprint matches the exact v1.0.2 package fingerprint adf3df3465e0418e75f1b91d8ccd22b3de7bd5f60a35878a6742ab25d309615d with 5 files; protected Control Plane components and all six protected V3 snippets remain sealed-match; Home, Tribe anonymous boundary and protected Life SOS route remain healthy; governance documents remain drafts; public applications, payment, external AI, server-side Life SOS case storage, open posting, comments, DMs, persistent member uploads and all other high-risk flags remain OFF; no real member/application/founding records are created during QA. Deep safe QA only; no mutation authority outside the staging-only beta plugin's own synthetic test mechanism."
 }
