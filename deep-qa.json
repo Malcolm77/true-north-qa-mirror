@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "deep_safe_qa",
-        "generated_at_utc": "2026-08-31T08:28:57+00:00",
+        "generated_at_utc": "2026-08-31T08:39:38+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "85cf860330ad8a11cf0905d6eb5d266757cb5960dcdffe1485c3d3b86bb1b775"
+        "fingerprint": "280585f4a0cf15401b4cb06265261df585882be7717c67403d0c7cebb487f7c3"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -364,26 +364,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 467
+            "response_ms": 528
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 149
+            "response_ms": 132
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 185,
+            "response_ms": 164,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 543,
-        "html_sha256": "3e51124256f610b94cd809caeab22c54ed9849257cee174947a75855b82904a8",
+        "response_ms": 467,
+        "html_sha256": "db2d5a8694fe02f2ed6b814eac8e27532fd9eb6a785f4f5e41280686cd92c102",
         "html_bytes": 1230458,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": true,
@@ -469,9 +469,9 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "59a57b704c2e9586db92dccef21754fa4b1ffd54903e09df1ac374289efeb71f",
-            "home": "be68c81bb9b081fcc488d3377d8e53c1b8ab4cbc9fbfbfe3d492423bdba909d5",
-            "deep": "18a7d33517e477e9ab739418cf157d2ddc6c654215cff7b6bca2eb43b5d08a58"
+            "routes": "c756f44e4f2e8a516ddc89f29ddb0c8da8bf84e9fa0071ad2530ebae5e2059e1",
+            "home": "3eeb0fc4983c2e18b7528b613bf9873672c10ba635bb31cf673475bf012a144c",
+            "deep": "bb3c6ae0f9e9520feb7c35374d9e4a83337ce6399c60b5b49461d5206fa6930a"
         }
     },
     "privacy_exclusions": [
@@ -501,7 +501,7 @@
             "url": "https://truenorthsos.com/",
             "http_code": 200,
             "error": null,
-            "response_ms": 82,
+            "response_ms": 214,
             "quality": {
                 "html_sha256": "3a173d972ff522fb236fb13ba4f832f3b7a94d8a4c58dbcae214bf16616b1394",
                 "html_bytes": 1215694,
@@ -537,7 +537,7 @@
                 {
                     "path": "/",
                     "http_code": 200,
-                    "response_ms": 26,
+                    "response_ms": 32,
                     "error": null
                 }
             ]
@@ -546,10 +546,10 @@
             "wp_cron_disabled": false,
             "publish_scheduled": true,
             "command_poll_scheduled": true,
-            "next_publish_utc": "2026-08-31T08:33:16+00:00",
-            "next_command_poll_utc": "2026-08-31T08:33:46+00:00",
-            "last_publish_at": "2026-08-31T08:23:09+00:00",
-            "last_poll_at": "2026-08-31T08:24:54+00:00"
+            "next_publish_utc": "2026-08-31T08:48:16+00:00",
+            "next_command_poll_utc": "2026-08-31T08:43:46+00:00",
+            "last_publish_at": "2026-08-31T08:37:38+00:00",
+            "last_poll_at": "2026-08-31T08:34:27+00:00"
         }
     }
 }
