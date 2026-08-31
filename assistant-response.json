@@ -1,7 +1,7 @@
 {
     "command_id": "2026-08-31-family-beta-v110-release-audit-011",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T19:03:54+00:00",
+    "completed_at_utc": "2026-08-31T19:09:54+00:00",
     "ok": false,
     "status": "rejected_command_expired",
     "result": [],
