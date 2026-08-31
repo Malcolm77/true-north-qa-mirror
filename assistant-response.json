@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-08-31-fixpack-regression-003",
+    "command_id": "2026-08-31-production-parity-001",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T08:49:00+00:00",
+    "completed_at_utc": "2026-08-31T09:00:01+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "5fac7ece46d1f02ef69269fadb4c19068ef26140c02180d29cdeaf54a4447827"
+        "fingerprint": "f021a4a680cd30496fdcd76d4a3e8c11e49e608646faedd771d34b42cf41efdd"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
