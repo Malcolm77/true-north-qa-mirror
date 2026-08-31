@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-08-31T11:25:36+00:00",
+        "generated_at_utc": "2026-08-31T11:29:55+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "7f68d76505e4c4c333d4bfed30e16ba89c7c3efe8f3612389a3ebf1692f5a525",
-        "generation_ms": 5991.8,
+        "fingerprint": "c0e367a02d59db913e5f335bb29d3c2adf015b4a5baa67ae59ba74c29c8cf29b",
+        "generation_ms": 5125.4,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -64,6 +64,9 @@
         },
         {
             "name": "True North — Family Test Gateway"
+        },
+        {
+            "name": "True North — Final Accessibility Patch"
         },
         {
             "name": "True North — Finish-Line Autopilot"
@@ -216,9 +219,9 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 574.8,
-                "html_bytes": 1230408,
-                "html_sha256": "6844d7a10d55806be3af3f86a98580346de6661155ec5817ff42ab3b3398a024",
+                "fetch_ms": 550.5,
+                "html_bytes": 1230468,
+                "html_sha256": "8175ad843d55eebfe94ca8c54137748040712b8c5bfe85190d860f2de333ef08",
                 "visible_text_chars": 11676,
                 "visible_text_sha256": "a3273be7692063b3379778337ef0171075026bf6745bd9ba95732d213e73a853",
                 "visible_text_excerpt": "True North by Life SOS – The Tribe Network Skip to content True North by Life SOS TRUE NORTHTHE TRIBE NETWORK Explore Tribe Network How we think Apply Life SOS Men • community • direction • practical support True North by Life SOS The Tribe Network A community of men finding direction together. Belong. Speak freely. Share what you know. Learn from other men. Find your direction — and practical help when you need it. Speak freely. Challenge honestly. Respect the tribe. Open discussion with shared community standards. Challenge the idea. Respect the man. Protect the room. Apply to join the Tribe Network Explore the Network I need practical help Free to apply • 18+ • Email verification • Review and admission One community. Useful knowledge. Real interests. Life SOS when discussion is not enough. No guru culture.No requirement to agree.Challenge ideas, not people.Men’s issues do not require an enemy. Apply to join the Tribe Network Come in at the beginning. Free to apply • 18+ • verify your email • admission required Apply free. If admitted, enter the Tribe Network, find areas that matter to you, share ideas, experience and interests, learn from other men — and help shape the network as it grows. Founding members help shape the place. The first members help establish the rooms, interests, conversations and culture. We will not pretend to know every future room now — new spaces should grow from genuine member demand. One verified account. Reused carefully. Where appropriate, safe account facts such as your display name and verified email may be reused if you later use Life SOS, so you do not have to start again. Community posts and opinions are not automatically carried into a Life SOS case. Ask once. Reuse safely. 1. ApplyPreferred/display name, email and required membership declarations. 2. VerifyConfirm your email before your application moves to review. 3. ReviewYour verified application is held for genuine review. 4. AdmitAn admission decision is recorded. Verification alone does not grant membership. 5. EnterAdmitted members enter the private Tribe Network. Apply to join the Tribe Network Public applications are not yet open. We are completing the founding, governance and admission arrangements before opening the route. Application preview • no information is being collected here Preferred / display nameThe name you want other members to see. Email addressUsed to verify your application and account. 1You will confirm that you are aged 18 or over. 2You will confirm that you are a man and meet The Tribe Network membership criterion. 3You will be asked to read and accept the Constitution / Membership Rules. 4You will be asked to read and accept the Membership & Community Terms. 5You will be asked to read and accept the Community Standards.Read the standards summary on this page. Privacy: the Privacy Policy will explain how applicant and member information is used. It is presented as privacy information, not as blanket consent. Any future marketing choice will be separate and optional. How admission works: when applications open, email verification will move the application into review. Verification alone will not grant membership. Only an admitted applicant will enter the private Tribe Network. Public applications not yet open The principle No single book. No single philosophy. No final answer. Explore it. Question it. Compare it. Decide what is useful. Think for yourselfStep outside the noise. There are already enough people competing to tell men what they should believe, want, earn, tolerate, become or feel. AlgorithmsAdvertisingPoliticsSocial mediaNewsInfluencersWorkCultureExpectations Better questions create better judgement. What do I actually think?What matters to me?What am I responsible for?What kind of man do I want to become?What needs to change? This week’s questionWhat belief have you changed your mind about in the last five years — and what changed it? The Tribe Network knowledge bankUseful things should not disappear down an endless feed. Books. Videos. Podcasts. Useful organisations. Practical know-how. Different perspectives. Lessons learned the hard way. The Tribe Network can build a growing bank of material worth finding again — shared by members, questioned openly and never treated as automatically endorsed. Why explore it?What makes this idea, argument or experience worth your attention? What’s useful?What practical principle or question can you take from it? What should we question?Where could it be incomplete, exaggerated or dependent on circumstance? Where could it help?In what real-life situations might this perspective genuinely add value? Where could it go wrong?What happens if the principle is applied rigidly, recklessly or without context? Inside the Tribe NetworkIdeas worth exploring. Conversations worth having. ExploreThe Reading RoomBooks, articles and talks worth exploring — not because the Tribe agrees with every word, but because good material gives us something to think about. Watch & listenDifferent voicesVideos, interviews and podcasts that challenge assumptions, add context or change the angle from which you see something. CommunityThe Men’s TableReal discussion about work, money, relationships, fatherhood, health, purpose, pressure, responsibility, success and starting again. Make & doThe WorkshopDIY, repairs, practical skills, projects, tools and the sort of useful knowledge men often learn by doing and passing on. InterestsOff the ClockSport, cars, motorbikes, fishing, outdoors, gaming, technology and the interests that give men somewhere to connect beyond life’s problems. ExperienceField NotesThings that worked, things that did not, lessons learned and ideas somebody wishes they had understood ten years earlier. DiscoverFind videos, books, practical resources, people and ideas worth your time.DiscussQuestion, disagree well and hear how other men see the same issue.ContributeShare a worthwhile link, lesson, experience, skill or question with the community.ReturnWeekly questions, new resources and growing rooms give the network a reason to stay useful and alive. Shared by a member does not mean endorsed by Life SOS. Useful ideas can be explored, questioned and discussed without being adopted as a Life SOS position. Conversation can lead somewhere. If the same issue keeps appearing, the Tribe Network can help understand it properly rather than simply amplify it. ConversationRecurring patternEvidenceMember mandateConstructive action No automatic campaigning. Any action in members’ names must be evidence-led, auditable, proportionate and explicitly supported by members. A few places to start Organised around real life — and the things men actually enjoy doing. These are starting points, not a fixed menu. Rooms should grow from genuine member demand. Fatherhood & relationships Work & money Men’s health & wellbeing Purpose & self-development Books, ideas & culture Sport & fitness Cars & motorbikes DIY & practical skills Fishing & outdoors Gaming & technology Travel, music & cooking Local clubs, groups & interests Community standing is earned, not bought. Time in the community, constructive participation, useful contributions and good judgement matter more than payment. Shared community standardsSpeak freely. Challenge honestly. Respect the tribe.Challenge the idea. Respect the man. Protect the room. Honest disagreement is welcome. Harassment, intimidation and persistent destructive behaviour are not. Moderate behaviour, not viewpoint.Challenge ideas, not people.Personal experience matters, but it isn’t automatically evidence.Nobody gets the final word because they are popular.Private problems deserve privacy.Strength does not require aggression.Changing your mind is allowed.Men’s issues do not require an enemy.Curiosity before ideology.Private reporting protects the room. If something crosses the line, members will be able to report it privately for review. A clear boundaryMen’s issues do not require an enemy.Curios",
@@ -414,9 +417,9 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 574.8,
-                    "html_bytes": 1230408,
-                    "dom_elements": 369,
+                    "fetch_ms": 550.5,
+                    "html_bytes": 1230468,
+                    "dom_elements": 370,
                     "scripts": 0,
                     "stylesheets": 2,
                     "images": 3,
@@ -537,6 +540,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-08-31T11:25:37+00:00"
+        "generated_at_utc": "2026-08-31T11:29:55+00:00"
     }
 }
