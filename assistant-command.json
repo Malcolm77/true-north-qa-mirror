@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-production-parity-001",
+  "id": "2026-08-31-production-parity-post-purge-002",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T08:58:30Z",
-  "expires_at_utc": "2026-08-31T16:58:30Z",
-  "note": "Production parity regression after installing the exact sealed True North Finish-Line Fix Pack v0.1.2 on truenorthsos.com. Re-check production footer placeholders, disabled newsletter surface, conservative security headers, homepage quality, bounded production links, and confirm staging protected baseline/Tribe/Life SOS/email/ops/commercial safe state remains intact. Diagnostics only; no mutation authority."
+  "issued_at_utc": "2026-08-31T09:09:00Z",
+  "expires_at_utc": "2026-08-31T17:09:00Z",
+  "note": "Post-cache-purge production parity regression for exact sealed True North Finish-Line Fix Pack v0.1.2. Re-check truenorthsos.com public HTML for raw Hostinger placeholders, disabled newsletter surface, fix-pack output/security headers, homepage quality and bounded links. Also confirm staging protected baseline, all six V3 snippets, Tribe access, Life SOS renderer, email/ops/commercial safe state remain intact. Diagnostics only; no mutation authority."
 }
