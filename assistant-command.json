@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-fixpack-regression-001",
+  "id": "2026-08-31-fixpack-regression-002",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T08:24:00Z",
-  "expires_at_utc": "2026-08-31T16:24:00Z",
-  "note": "Post-install regression for True North Finish-Line Fix Pack v0.1.0. Re-run deep safe QA, verify protected baseline integrity, staging footer/newsletter suppression, routes, Life SOS, Tribe access, email/ops/commercial safe state. Diagnostics only; no mutation authority."
+  "issued_at_utc": "2026-08-31T08:35:00Z",
+  "expires_at_utc": "2026-08-31T16:35:00Z",
+  "note": "Post-replacement regression for True North Finish-Line Fix Pack v0.1.1. Verify actual rendered newsletter form removal, protected baseline integrity, Tribe access, Life SOS renderer, email/ops/commercial safe state, and staging front-end hardening. Diagnostics only; no mutation authority."
 }
