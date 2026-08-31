@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-08-31-production-v013-parity-005",
+    "command_id": "2026-08-31-governance-draft-regression-006",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T09:39:34+00:00",
+    "completed_at_utc": "2026-08-31T10:19:29+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "e08c3a9b2b8a9b6d700209776d2d727845208e36be55a7d1c417e667cef2608c"
+        "fingerprint": "d75716c52daa73d07a4812d07908110c938c5624c5c0116766645a7c0d8ae174"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
