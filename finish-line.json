@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-08-31T10:12:21+00:00",
+        "generated_at_utc": "2026-08-31T10:15:24+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "d6dfb7d4bee5313b937fcd8bb7eb994876fc2bb59c3980296c81c378964482a2"
+        "fingerprint": "02551a256689b09f19f7133c9095dc76b6aeec9403e813d6424872e9da55c882"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -362,26 +362,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 501
+            "response_ms": 491
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 102
+            "response_ms": 124
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 154,
+            "response_ms": 188,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 466,
-        "html_sha256": "7fd70ecc9a05da2a57f5571ffb2de7d6cc5b1bb54e78e7b47fe15e6a913eb563",
+        "response_ms": 527,
+        "html_sha256": "23b3a413be40032c14c2acf5f8e7e6a2a14502f5ae7d20a8e7689d1ea8b2eab5",
         "html_bytes": 1230272,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -435,7 +435,6 @@
     },
     "changes": {
         "sections_changed_since_last_published_snapshot": [
-            "components",
             "routes",
             "home"
         ],
@@ -452,8 +451,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "288e35d75821fa693b747a651d1536b418717a676f5cf3c463cd62654f891635",
-            "home": "6289b4e36cb6445c1897f11a5578e41851d61acbe6c66647c2ce5c5d05638074"
+            "routes": "0e5200c60ba74380cb4bf6f5f9c89bf4bc03d7fc925df32fdecec6b925b4160e",
+            "home": "a66ae5c83552c26a890f379854b88580f564d312685b7d1e9042fd47d0362b45"
         }
     },
     "privacy_exclusions": [
