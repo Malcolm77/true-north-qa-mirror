@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-fixpack-regression-002",
+  "id": "2026-08-31-fixpack-regression-003",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T08:35:00Z",
-  "expires_at_utc": "2026-08-31T16:35:00Z",
-  "note": "Post-replacement regression for True North Finish-Line Fix Pack v0.1.1. Verify actual rendered newsletter form removal, protected baseline integrity, Tribe access, Life SOS renderer, email/ops/commercial safe state, and staging front-end hardening. Diagnostics only; no mutation authority."
+  "issued_at_utc": "2026-08-31T08:45:00Z",
+  "expires_at_utc": "2026-08-31T16:45:00Z",
+  "note": "Canonical post-replacement regression for True North Finish-Line Fix Pack v0.1.2. Verify plugin fingerprint/version marker changed, rendered newsletter form is absent while marketing remains disabled, raw placeholders remain absent on staging, protected baseline and six protected V3 snippets remain sealed-match, Tribe and Life SOS routes remain healthy, and email/ops/commercial safe state remains intact. Diagnostics only; no mutation authority."
 }
