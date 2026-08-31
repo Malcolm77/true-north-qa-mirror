@@ -1,0 +1,5 @@
+{
+  "id": "2026-08-31-bootstrap-refresh-001",
+  "action": "refresh_status",
+  "note": "Bootstrap diagnostics request for True North Finish-Line Autopilot v0.2.0. Diagnostics only; no mutation authority."
+}
