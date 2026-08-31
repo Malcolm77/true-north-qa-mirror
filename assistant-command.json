@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-fixpack-v014-production-parity-008",
+  "id": "2026-08-31-fixpack-v015-staging-final-regression-009",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T10:56:00Z",
-  "expires_at_utc": "2026-08-31T18:56:00Z",
-  "note": "Production parity regression after the founder installed the exact staging-tested Finish-Line Fix Pack v0.1.4 on truenorthsos.com. Verify staging remains healthy and production front-door evidence now reflects v0.1.4 behaviour: HTTP 200, raw Hostinger placeholders absent, disabled newsletter surface absent, conservative security/verification headers present, no Life SOS regression, no protected component/snippet drift, and no mutation of governance, members, applications, roles, payments, AI or feature flags. Deep safe QA only; no mutation authority."
+  "issued_at_utc": "2026-08-31T11:13:00Z",
+  "expires_at_utc": "2026-08-31T19:13:00Z",
+  "note": "Final staging regression after installing Finish-Line Fix Pack v0.1.5. Verify the installed fix-pack fingerprint changed from v0.1.4, protected Control Plane components and all six protected V3 snippets remain sealed-match, Home/Tribe/Life SOS routes remain healthy, governance drafts and feature flags remain unchanged, raw placeholders/newsletter remain absent, and no member/application/role/payment/AI/Life SOS state mutation occurred. Deep safe QA only; no mutation authority."
 }
