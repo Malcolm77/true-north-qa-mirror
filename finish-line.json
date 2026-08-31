@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-08-31T08:39:42+00:00",
+        "generated_at_utc": "2026-08-31T08:45:41+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "fcf5adfe0bee2801d39b1bb5fc12bfea785467074cd8b64106e53ad1da19a65c"
+        "fingerprint": "4e32fa1a219e67518e9d1bd88838f860bc82f9ff84bf952df00e33cc9aabe48f"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -64,7 +64,7 @@
         },
         {
             "name": "True North \u2014 Finish-Line Fix Pack",
-            "tree_sha256": "6944d92d194d1d5437c74c026cfc750491cfba2b8487f75061f833196780de2f",
+            "tree_sha256": "485bb98cce2d1cc721ee7a32f78cc29555ac7e71e45008ead758191b0d5d41f1",
             "file_count": 2
         },
         {
@@ -356,29 +356,29 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 479
+            "response_ms": 550
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 141
+            "response_ms": 143
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 175,
+            "response_ms": 191,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 492,
-        "html_sha256": "8b6f7e0872481aca6f611508ab5922557797e4b53003ffa03233726416680234",
-        "html_bytes": 1230458,
+        "response_ms": 487,
+        "html_sha256": "c8a8118d2e5456618d2785a6938e828fdf1482e13e5ee2863a89d8b990d43adf",
+        "html_bytes": 1230272,
         "raw_theme_placeholders": [],
-        "newsletter_form_detected": true,
+        "newsletter_form_detected": false,
         "newsletter_unavailable_text_detected": false,
         "life_sos_marker_detected": true,
         "viewport_meta_present": true,
@@ -417,13 +417,6 @@
             "area": "governance",
             "problem": "privacy_policy is not published.",
             "blocking": false
-        },
-        {
-            "id": "TNFL-P2-NEWS",
-            "severity": "P2",
-            "area": "marketing",
-            "problem": "Footer newsletter form is present while marketing remains gated.",
-            "blocking": false
         }
     ],
     "technical_gate": {
@@ -431,7 +424,7 @@
         "blocking_failures": 0,
         "p0": 0,
         "p1": 0,
-        "p2": 1,
+        "p2": 0,
         "holds": 4
     },
     "changes": {
@@ -452,8 +445,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "50f41ea2fb63a34cee200072bbf0a9f526ca435d0b3b6e98d02a48b37c3214f9",
-            "home": "824190e23006940b22772089e6658f587d1f14c07d4f933b48eb51cce06a6022"
+            "routes": "4841bb21925e4785366759b26e80c3100ee063b311551a83565fe3bad6fcf9e2",
+            "home": "0a085fa8918e4c48453b514f1edc27eec3c8daacff21b1ea8eec18d81bbbcda5"
         }
     },
     "privacy_exclusions": [
