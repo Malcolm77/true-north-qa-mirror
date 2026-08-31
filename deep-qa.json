@@ -1,0 +1,549 @@
+{
+    "audit": {
+        "name": "True North Finish-Line Autopilot",
+        "version": "0.3.1",
+        "mode": "deep_safe_qa",
+        "generated_at_utc": "2026-08-31T08:09:35+00:00",
+        "host": "audit.truenorthsos.com",
+        "public_safe": true,
+        "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
+        "fingerprint": "5bdf19472d077fa63dde424d8f86b0d84dd5a761a73579e81fbf7bdd242c8625"
+    },
+    "site": {
+        "name": "True North by Life SOS",
+        "home_url": "https://audit.truenorthsos.com/",
+        "site_url": "https://audit.truenorthsos.com/",
+        "blog_public": 0,
+        "users_can_register": false,
+        "theme": "Hostinger AI theme"
+    },
+    "active_components": [
+        "Code Snippets",
+        "FluentCommunity",
+        "FluentSMTP",
+        "Hostinger AI",
+        "Hostinger Easy Onboarding",
+        "Hostinger Reach",
+        "Hostinger Tools",
+        "LiteSpeed Cache",
+        "True North Control Plane",
+        "True North QA Reporter",
+        "True North V5.1 Launch Builder",
+        "True North \u2014 Family Test Gateway",
+        "True North \u2014 Finish-Line Autopilot",
+        "True North \u2014 Life SOS Required Action Spotlight",
+        "True North \u2014 QA Access Matrix",
+        "True North \u2014 Tribe Access Lockdown"
+    ],
+    "true_north_source_fingerprints": [
+        {
+            "name": "True North Control Plane",
+            "tree_sha256": "a981f913a08414f603f5a86986f28ad39fc3d7d81ac07424d2bfbb2536fa891d",
+            "file_count": 25
+        },
+        {
+            "name": "True North QA Reporter",
+            "tree_sha256": "d6c7deeb403558e59539dc6ae9bc3660a8df107f0357134ce66dc2b13e6260d5",
+            "file_count": 2
+        },
+        {
+            "name": "True North V5.1 Launch Builder",
+            "tree_sha256": "177bc0a1b8b53aae0d85641355cc4ac9fc511f4a6143f5a77a66d8c509eb9c99",
+            "file_count": 1
+        },
+        {
+            "name": "True North \u2014 Family Test Gateway",
+            "tree_sha256": "016090919d467c29c668bb7d5ef686ae8bd92f5937857df147e96be099a4dcc4",
+            "file_count": 2
+        },
+        {
+            "name": "True North \u2014 Finish-Line Autopilot",
+            "tree_sha256": "8e3c0efb5da750a628bfae51accd566a3da498608bdc5ef13db46a3720fa407c",
+            "file_count": 2
+        },
+        {
+            "name": "True North \u2014 Life SOS Required Action Spotlight",
+            "tree_sha256": "5761ba2cca0a4715be82cf0c5bd6d8cb6f0b667b173211caa8ee5643ae2e2862",
+            "file_count": 1
+        },
+        {
+            "name": "True North \u2014 QA Access Matrix",
+            "tree_sha256": "46ef9532c34aec6949d8361340e73c0592f55557a5ca164abaf6dcc0a4e9fc49",
+            "file_count": 1
+        },
+        {
+            "name": "True North \u2014 Tribe Access Lockdown",
+            "tree_sha256": "0f99a760c50cf1e877f1f84e98d3aa8fcbe3e5261f0cbe40b146bfe35dea4fab",
+            "file_count": 1
+        }
+    ],
+    "protected_component_integrity": {
+        "True North Control Plane": {
+            "installed": true,
+            "active": true,
+            "sealed_match": true,
+            "checked_files": 10,
+            "mismatched_files": 0,
+            "missing_files": 0,
+            "critical_fingerprint": "18eb9321cc5748a459a8e7dd746eb1674926250e49f5614ead9be3478adce5f7"
+        },
+        "True North QA Reporter": {
+            "installed": true,
+            "active": true,
+            "sealed_match": true,
+            "checked_files": 1,
+            "mismatched_files": 0,
+            "missing_files": 0,
+            "critical_fingerprint": "9a2e62c88401a19a765390018078eae89420c60957d3ccab835ed9d0e7d27b7e"
+        },
+        "True North V5.1 Launch Builder": {
+            "installed": true,
+            "active": true,
+            "sealed_match": true,
+            "checked_files": 1,
+            "mismatched_files": 0,
+            "missing_files": 0,
+            "critical_fingerprint": "177bc0a1b8b53aae0d85641355cc4ac9fc511f4a6143f5a77a66d8c509eb9c99"
+        },
+        "True North \u2014 Life SOS Required Action Spotlight": {
+            "installed": true,
+            "active": true,
+            "sealed_match": true,
+            "checked_files": 1,
+            "mismatched_files": 0,
+            "missing_files": 0,
+            "critical_fingerprint": "5761ba2cca0a4715be82cf0c5bd6d8cb6f0b667b173211caa8ee5643ae2e2862"
+        },
+        "True North \u2014 QA Access Matrix": {
+            "installed": true,
+            "active": true,
+            "sealed_match": true,
+            "checked_files": 1,
+            "mismatched_files": 0,
+            "missing_files": 0,
+            "critical_fingerprint": "46ef9532c34aec6949d8361340e73c0592f55557a5ca164abaf6dcc0a4e9fc49"
+        },
+        "True North \u2014 Tribe Access Lockdown": {
+            "installed": true,
+            "active": true,
+            "sealed_match": true,
+            "checked_files": 1,
+            "mismatched_files": 0,
+            "missing_files": 0,
+            "critical_fingerprint": "0f99a760c50cf1e877f1f84e98d3aa8fcbe3e5261f0cbe40b146bfe35dea4fab"
+        }
+    },
+    "protected_snippet_integrity": {
+        "available": true,
+        "snippets": {
+            "V3 - First Entry Standards Gate": {
+                "found": true,
+                "active": true,
+                "sealed_match": true,
+                "code_sha256": "b67b83f56add4f8e316020bebc62cf4c3ca522c9e5aa831d38a458bf058d3336"
+            },
+            "V3 - Tribe Applicant and Member Roles": {
+                "found": true,
+                "active": true,
+                "sealed_match": true,
+                "code_sha256": "35e232be1840441c370c9e448936d61a40d89fd7a6d7e3d2763c48048e0c62d7"
+            },
+            "V3 - Tribe Application Gate": {
+                "found": true,
+                "active": true,
+                "sealed_match": true,
+                "code_sha256": "8b2a097cf294a2c682875bdadd85a3142e5d4fca58e5d9c904beabfe4abbd61d"
+            },
+            "V3.3 - Controlled Tribe Hub + Portal Lockdown": {
+                "found": true,
+                "active": true,
+                "sealed_match": true,
+                "code_sha256": "da705659826fc405847576947ff50429c4dec1116fd97fe33838e4071c026b2a"
+            },
+            "V3.4 - Staging Hardening + Hostinger Theme Cleanup": {
+                "found": true,
+                "active": true,
+                "sealed_match": true,
+                "code_sha256": "e7f6190d9f310bb5809f395644f97302b60c804644c378a2fceb31186d83967a"
+            },
+            "V3.5 - Life SOS Protected Six-Page Journey": {
+                "found": true,
+                "active": true,
+                "sealed_match": true,
+                "code_sha256": "11de0d78f737b3516d8d50528be4921ba24efcba4a6d81819b67b36a5137eaac"
+            }
+        },
+        "all_match": true
+    },
+    "roles": {
+        "subscriber": true,
+        "tribe_applicant": true,
+        "tribe_member": true
+    },
+    "governance": {
+        "constitution_or_membership_rules": {
+            "found": true,
+            "published": false,
+            "status": "draft",
+            "modified_gmt": "2026-08-27 13:00:13",
+            "content_sha256": "a622a37d22a3470cd85352bc50937a860432836b7dacd49b7bef7d0903e38e6c"
+        },
+        "community_standards": {
+            "found": true,
+            "published": false,
+            "status": "draft",
+            "modified_gmt": "2026-08-27 17:28:36",
+            "content_sha256": "9c3b4d27c661ac9a7a889b0302a766c5a2cda24c2a14c13de77714159e7baec0"
+        },
+        "membership_or_community_terms": {
+            "found": true,
+            "published": false,
+            "status": "draft",
+            "modified_gmt": "2026-08-27 17:28:36",
+            "content_sha256": "ec753f47720e96d5a7206c8b6beb300f8f69959f789d64115158ef86fac37f36"
+        },
+        "privacy_policy": {
+            "found": true,
+            "published": false,
+            "status": "draft",
+            "modified_gmt": "2026-08-22 08:15:13",
+            "content_sha256": "c48159b1446cad0c1924ea988d9382b24561d808f3d3a6a681480412231f8679"
+        }
+    },
+    "feature_flags": {
+        "available": true,
+        "flags": {
+            "public_applications": false,
+            "live_payment": false,
+            "external_ai_private_cases": false,
+            "life_sos_server_case_storage": false,
+            "paid_human_review": false,
+            "supporter_tier": false,
+            "premium_tier": false,
+            "b2b_organisation_mode": false,
+            "white_label_licensing": false,
+            "partner_referrals": false,
+            "marketing_newsletter": false,
+            "open_member_posts": false,
+            "comments_replies": false,
+            "direct_messages": false,
+            "member_file_uploads": false,
+            "public_member_directory": false,
+            "local_member_matching": false,
+            "member_events": false,
+            "political_polling": false,
+            "automated_community_intelligence": false,
+            "community_advocacy_tools": false
+        },
+        "unexpected_on": []
+    },
+    "finish_line": {
+        "available": true,
+        "blocks": {
+            "5": {
+                "label": "Membership / governance gate",
+                "pass": false
+            },
+            "6": {
+                "label": "Email and application workflow",
+                "pass": true
+            },
+            "7": {
+                "label": "Privacy / terms / standards gate",
+                "pass": false
+            },
+            "8": {
+                "label": "Admin / moderation readiness",
+                "pass": true
+            },
+            "9": {
+                "label": "Final release QA",
+                "pass": false
+            }
+        },
+        "controlled_soft_launch_ready": false,
+        "public_applications_on": false,
+        "payment_on": false,
+        "external_ai_on": false
+    },
+    "email": {
+        "available": true,
+        "mode": "test_only",
+        "last_test_sent": "2026-08-27 16:38:42",
+        "last_test_result": "accepted_by_wp_mail",
+        "last_test_received": true,
+        "newsletter_decision": "disabled",
+        "runtime_proven": true,
+        "newsletter_separated": true,
+        "block6_ready": true
+    },
+    "operations": {
+        "available": true,
+        "prepared": true
+    },
+    "commercial": {
+        "available": true,
+        "products": {
+            "ids": [
+                "life_sos_one_move",
+                "life_sos_case_pack",
+                "life_sos_workspace",
+                "before_you_send",
+                "understand_this_letter",
+                "important_dates",
+                "evidence_organisation",
+                "specialist_domain_pack"
+            ],
+            "missing": [],
+            "unexpected_active": []
+        },
+        "entitlements": {
+            "ids": [
+                "life_sos_one_move",
+                "life_sos_case_pack",
+                "life_sos_workspace",
+                "tribe_supporter",
+                "premium_knowledge",
+                "organisation_licence"
+            ],
+            "missing": [],
+            "unexpected_active": [],
+            "supporter_separate_from_standing": true
+        },
+        "domains": {
+            "ids": [
+                "work",
+                "future_domain_pack"
+            ]
+        },
+        "adapters": {
+            "ids": [
+                "payment",
+                "external_ai",
+                "human_review"
+            ],
+            "unsafe_enabled": []
+        },
+        "policies": {
+            "expected_versions_present": true
+        },
+        "checks": {
+            "tunnels_complete": true,
+            "all_commercial_inactive": true,
+            "supporter_boundary_safe": true,
+            "marketing_separate_opt_in": true
+        }
+    },
+    "founding": {
+        "available": true,
+        "completion": {
+            "25_members": false,
+            "30_40_target": false,
+            "member_application_records": true,
+            "recorded_accept_decisions": true,
+            "governance_approved": false,
+            "founding_resolution": false,
+            "noncommercial_boundary": false,
+            "operator_transition_plan": false,
+            "public_applications_off": true,
+            "live_payment_off": true
+        },
+        "membership": {
+            "tables_ready": true,
+            "public_route_allowed": false
+        }
+    },
+    "routes": {
+        "home": {
+            "http_code": 200,
+            "location": "",
+            "error": null,
+            "response_ms": 407
+        },
+        "tribe_anonymous": {
+            "http_code": 302,
+            "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
+            "error": null,
+            "response_ms": 97
+        },
+        "life_sos": {
+            "http_code": 200,
+            "error": null,
+            "response_ms": 159,
+            "marker_detected": true
+        }
+    },
+    "home": {
+        "http_code": 200,
+        "error": null,
+        "response_ms": 410,
+        "html_sha256": "293b7b127fc2de8f5c06ae2d5eeea629508698e2ffc2e918e78f7bacf2df5ce1",
+        "html_bytes": 1233415,
+        "raw_theme_placeholders": [],
+        "newsletter_form_detected": true,
+        "newsletter_unavailable_text_detected": false,
+        "life_sos_marker_detected": true,
+        "viewport_meta_present": true,
+        "lang_attribute_present": true,
+        "h1_count": 1,
+        "title_present": true,
+        "empty_href_count": 0,
+        "images_without_alt": 0,
+        "unlabelled_buttons": 0
+    },
+    "risks": [
+        {
+            "id": "TNFL-HOLD-72E6E7",
+            "severity": "HOLD",
+            "area": "governance",
+            "problem": "constitution_or_membership_rules is not published.",
+            "blocking": false
+        },
+        {
+            "id": "TNFL-HOLD-9EAA51",
+            "severity": "HOLD",
+            "area": "governance",
+            "problem": "community_standards is not published.",
+            "blocking": false
+        },
+        {
+            "id": "TNFL-HOLD-CCA363",
+            "severity": "HOLD",
+            "area": "governance",
+            "problem": "membership_or_community_terms is not published.",
+            "blocking": false
+        },
+        {
+            "id": "TNFL-HOLD-532FF6",
+            "severity": "HOLD",
+            "area": "governance",
+            "problem": "privacy_policy is not published.",
+            "blocking": false
+        },
+        {
+            "id": "TNFL-P2-NEWS",
+            "severity": "P2",
+            "area": "marketing",
+            "problem": "Footer newsletter form is present while marketing remains gated.",
+            "blocking": false
+        },
+        {
+            "id": "TNFL-P2-PROD-FOOTER",
+            "severity": "P2",
+            "area": "production",
+            "problem": "Production front door contains raw theme/footer placeholders.",
+            "blocking": false
+        }
+    ],
+    "technical_gate": {
+        "pass": true,
+        "blocking_failures": 0,
+        "p0": 0,
+        "p1": 0,
+        "p2": 2,
+        "holds": 4
+    },
+    "changes": {
+        "sections_changed_since_last_published_snapshot": [
+            "governance",
+            "routes",
+            "home",
+            "deep"
+        ],
+        "section_fingerprints": {
+            "site": "5abfe2858e0f58ee5d9c907e3b1ba25bda8ad6bc44af7e5999b72fd2c6ef6066",
+            "components": "e54b95b85cdc412c2523eca67233a2d6e6d9acba031eaaa530510accbd7d511b",
+            "source_integrity": "6b4af158315824b07f5f3942d0857c8dbff8f3d7a062cfb18e4b26a9cb7ffbd4",
+            "snippet_integrity": "31f0430474596dd699dfa262837bb627bf3190b15e008229b0e8a7c822ba8993",
+            "roles": "9079e87e523a2c9cd36cd5d1346b7c203a9e7e90408ff3c6d1e066cc78f7efa7",
+            "governance": "b3d0b6acfeb9915a381029641ad3f739198f52bb1c0b979fc642c341cbc6efe4",
+            "feature_flags": "ec084e11b45071e9bfb397fa2c3e39bee0bab8887e48eca2f2b963028cda6ce1",
+            "finish_line": "5b66155f41c85911e8176a864f3912120b4b7541fbbd9ee6ebd772f2a707a80b",
+            "email": "8bd6367a94e8fbdab2ea6d6cf3ca5c8654ef741a62f7bbff78d0e0ad7ffeec45",
+            "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
+            "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
+            "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
+            "routes": "fbb24577c1ecf5e64dfbef474ee1ec50ddaf890e6b75edd28c9d8fcf1bb61af2",
+            "home": "49732989c537a611c68ef1cbc869af13c2da4750ae9a9f78661bf8cc757f8b97",
+            "deep": "f0bd649d872dabf1dabb9d8e16ef901d405311c6c8f5037ba8e0b545a0d06c88"
+        }
+    },
+    "privacy_exclusions": [
+        "user_identity",
+        "email_addresses",
+        "application_contents",
+        "member_records",
+        "member_counts",
+        "member_reports",
+        "private_posts",
+        "private_life_sos_cases",
+        "passwords",
+        "cookies",
+        "tokens",
+        "credentials",
+        "raw_database_options"
+    ],
+    "manual_evidence_still_required": [
+        "authenticated_member_side_Tribe_UI",
+        "real_device_mobile_narrow_screen",
+        "keyboard_focus_and_200_percent_zoom",
+        "third_party_mailbox_delivery_beyond_recorded_test_proof",
+        "founder_only_governance_or_launch_decisions"
+    ],
+    "deep_safe_qa": {
+        "production": {
+            "url": "https://truenorthsos.com/",
+            "http_code": 200,
+            "error": null,
+            "response_ms": 97,
+            "quality": {
+                "html_sha256": "3a173d972ff522fb236fb13ba4f832f3b7a94d8a4c58dbcae214bf16616b1394",
+                "html_bytes": 1215694,
+                "raw_theme_placeholders": [
+                    "trans-menu",
+                    "trans-contacts",
+                    "trans-contact_email",
+                    "trans-contact_phone",
+                    "trans-socials",
+                    "trans-newsletter",
+                    "trans-current-year",
+                    "trans-all-rights-reserved"
+                ],
+                "newsletter_form_detected": true,
+                "newsletter_unavailable_text_detected": true,
+                "life_sos_marker_detected": true,
+                "viewport_meta_present": true,
+                "lang_attribute_present": true,
+                "h1_count": 1,
+                "title_present": true,
+                "empty_href_count": 0,
+                "images_without_alt": 0,
+                "unlabelled_buttons": 0
+            },
+            "security_headers": {
+                "strict_transport_security": false,
+                "content_security_policy": true,
+                "x_content_type_options": false,
+                "referrer_policy": false,
+                "x_frame_options": false
+            },
+            "internal_link_scan": [
+                {
+                    "path": "/",
+                    "http_code": 200,
+                    "response_ms": 33,
+                    "error": null
+                }
+            ]
+        },
+        "cron": {
+            "wp_cron_disabled": false,
+            "publish_scheduled": true,
+            "command_poll_scheduled": true,
+            "next_publish_utc": "2026-08-31T08:18:16+00:00",
+            "next_command_poll_utc": "2026-08-31T08:13:46+00:00",
+            "last_publish_at": "2026-08-31T08:09:24+00:00",
+            "last_poll_at": "2026-08-31T08:05:20+00:00"
+        }
+    }
+}
