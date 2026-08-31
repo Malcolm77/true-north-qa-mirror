@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-08-31T16:24:56+00:00",
+        "generated_at_utc": "2026-08-31T16:26:36+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "01b3cf94e2ac0a9e170733ce63a1abac73b6052aa7b0c71e6e0da33cef1c79dd"
+        "fingerprint": "1411ee2a65b1960f4e293ed67691176e307631d7bd63676cf4029b90c143e9cc"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -30,7 +30,6 @@
         "True North QA Reporter",
         "True North V5.1 Launch Builder",
         "True North \u2014 Family Beta V1",
-        "True North \u2014 Family Test Gateway",
         "True North \u2014 Final Accessibility Patch",
         "True North \u2014 Finish-Line Autopilot",
         "True North \u2014 Finish-Line Fix Pack",
@@ -59,11 +58,6 @@
             "name": "True North \u2014 Family Beta V1",
             "tree_sha256": "119642f6451715bac34c434f12b17dc096d92ff8474bcd6cd342e22f1e127176",
             "file_count": 5
-        },
-        {
-            "name": "True North \u2014 Family Test Gateway",
-            "tree_sha256": "016090919d467c29c668bb7d5ef686ae8bd92f5937857df147e96be099a4dcc4",
-            "file_count": 2
         },
         {
             "name": "True North \u2014 Final Accessibility Patch",
@@ -374,26 +368,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 496
+            "response_ms": 492
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 108
+            "response_ms": 114
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 163,
+            "response_ms": 190,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 498,
-        "html_sha256": "771fc2c49378716721f586756d57b05abe9dc95c6324c990b4b2ae8c56f0139f",
+        "response_ms": 497,
+        "html_sha256": "d0f3326e18d9590c6d4e6695f448f9067df9ab30265b3afa7fd1fa3d289ca3d3",
         "html_bytes": 1230468,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -447,12 +441,13 @@
     },
     "changes": {
         "sections_changed_since_last_published_snapshot": [
+            "components",
             "routes",
             "home"
         ],
         "section_fingerprints": {
             "site": "5abfe2858e0f58ee5d9c907e3b1ba25bda8ad6bc44af7e5999b72fd2c6ef6066",
-            "components": "87835886a74eaeaede30802c01c54da4e641ffa7f010d5038550f3364b13a5b7",
+            "components": "414706da571efb81e99838d604fc779291581cfe86e5eb4da902f7ce7707a8c1",
             "source_integrity": "6b4af158315824b07f5f3942d0857c8dbff8f3d7a062cfb18e4b26a9cb7ffbd4",
             "snippet_integrity": "31f0430474596dd699dfa262837bb627bf3190b15e008229b0e8a7c822ba8993",
             "roles": "9079e87e523a2c9cd36cd5d1346b7c203a9e7e90408ff3c6d1e066cc78f7efa7",
@@ -463,8 +458,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "10eba265f1e94c656b1f49ae3d7498e463cde94c04ec791dfc8b96c6734429ff",
-            "home": "4921a63f7cd164136d98a67b386898b68c4ec1c499008cf7cd36b2bc0a3b48eb"
+            "routes": "1556197413141ee82309430974507693e119563145e9a10842e919dbe6276710",
+            "home": "526bc65e43a1a30d258a874e601623a8e7b2a16ab37b0dbe871dff889705b66d"
         }
     },
     "privacy_exclusions": [
