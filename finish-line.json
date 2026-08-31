@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-08-31T09:19:32+00:00",
+        "generated_at_utc": "2026-08-31T09:28:18+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "8acc24efe58714136a3ef3ddd4367d021266b5f2c0d27c4563f80dba584b6b29"
+        "fingerprint": "91c6aa6dc9e4e09aa6f3ffe400bc5d4d34702d155aeb7efa2bbc0eaac284caa9"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -64,7 +64,7 @@
         },
         {
             "name": "True North \u2014 Finish-Line Fix Pack",
-            "tree_sha256": "485bb98cce2d1cc721ee7a32f78cc29555ac7e71e45008ead758191b0d5d41f1",
+            "tree_sha256": "856cdd3826f6abaaa012a25c2de035d14a1ee11e0baa036a084bd49ce7f65047",
             "file_count": 2
         },
         {
@@ -356,26 +356,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 445
+            "response_ms": 469
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 143
+            "response_ms": 150
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 164,
+            "response_ms": 153,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 487,
-        "html_sha256": "28cad4c40fab7b57873724b5466c1376c8e31d08b391ff3845ee49336bf46399",
+        "response_ms": 452,
+        "html_sha256": "3e1d38d4455c5dda82c677e87b6c293a43423ac7bf34d2a578e414056a8ad9d1",
         "html_bytes": 1230272,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -445,8 +445,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "95f5e99217e025df5ff6204433f07afc66a48fcce629b7611f604481020da9fd",
-            "home": "cae73b5eaa2cf840840e4177eeb2b7e908b6b67372a2dfe43da91a326e800090"
+            "routes": "a3fd72596d1c4cd2194e5cdca4077c2f0d7fb1fd72ab297dbfb6b82930d6144f",
+            "home": "e671a1053a1f83c4dca49eae176b1660faf9bdae8150730ccf30d02656e9a3e5"
         }
     },
     "privacy_exclusions": [
