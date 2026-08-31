@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-08-31-governance-draft-regression-006",
+    "command_id": "2026-08-31-fixpack-v014-staging-regression-007",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T10:19:29+00:00",
+    "completed_at_utc": "2026-08-31T10:50:04+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "d75716c52daa73d07a4812d07908110c938c5624c5c0116766645a7c0d8ae174"
+        "fingerprint": "2b5de5040b51c1cbef9a198ababc526e08b62c4bba58fccef12e50d4db7bb37f"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
