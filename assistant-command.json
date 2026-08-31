@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-governance-draft-regression-006",
+  "id": "2026-08-31-fixpack-v014-staging-regression-007",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T10:13:00Z",
-  "expires_at_utc": "2026-08-31T18:13:00Z",
-  "note": "Post-governance-draft-pack regression after staging Privacy Policy V1.1R candidate and the targeted Membership Terms link correction were staged. Verify protected Control Plane and all six V3 snippets remain sealed-match; all governance documents remain draft; Privacy content hash changed from generic WordPress baseline and V1.1R marker is present; Terms changed only as intended; Constitution and Community Standards remain unchanged; no feature flags, members, applications, roles, payment, AI or Life SOS state were mutated. Deep safe QA only; no mutation authority."
+  "issued_at_utc": "2026-08-31T10:47:00Z",
+  "expires_at_utc": "2026-08-31T18:47:00Z",
+  "note": "Post-install regression for Finish-Line Fix Pack v0.1.4 on staging. Verify the installed Fix Pack fingerprint changed from v0.1.3; protected Control Plane and all six V3 snippets remain sealed-match; home/Tribe/Life SOS routes remain healthy; governance drafts and feature flags remain unchanged; raw placeholders/newsletter remain absent; no member/application/role/payment/AI/Life SOS state mutation. Deep safe QA only; no mutation authority."
 }
