@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "deep_safe_qa",
-        "generated_at_utc": "2026-08-31T09:30:18+00:00",
+        "generated_at_utc": "2026-08-31T09:39:33+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "ee8a86104e0e2a92ddd7316d6cea751c8d787c5d53eb81e3f12af28ad71abf8e"
+        "fingerprint": "e08c3a9b2b8a9b6d700209776d2d727845208e36be55a7d1c417e667cef2608c"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -364,26 +364,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 440
+            "response_ms": 438
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 125
+            "response_ms": 115
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 204,
+            "response_ms": 145,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 450,
-        "html_sha256": "5d34c2385b748894481b31177d79e9b26c9ffbe577bc11021ef2a561fbf3509b",
+        "response_ms": 430,
+        "html_sha256": "05efd2829fc35d0b2f0dc3e602efc8eed8386afddcc66f68bb835f80133c87a2",
         "html_bytes": 1230272,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -425,13 +425,6 @@
             "area": "governance",
             "problem": "privacy_policy is not published.",
             "blocking": false
-        },
-        {
-            "id": "TNFL-P2-PROD-FOOTER",
-            "severity": "P2",
-            "area": "production",
-            "problem": "Production front door contains raw theme/footer placeholders.",
-            "blocking": false
         }
     ],
     "technical_gate": {
@@ -439,7 +432,7 @@
         "blocking_failures": 0,
         "p0": 0,
         "p1": 0,
-        "p2": 1,
+        "p2": 0,
         "holds": 4
     },
     "changes": {
@@ -462,9 +455,9 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "a7df469fe5b36d7ed08d9423366e3e7fb8544cfbd8ac8d6cc011fae79313021c",
-            "home": "2851f4311114cca3dbb7ba2c14ef3270eab6f5e3ba7f13d5a1bd77e14f951977",
-            "deep": "a715f73387247f35ec90989c2ed2166b4445734f0b39e1d28742d7526b75193b"
+            "routes": "251891035a8567e652375992138067710dbca5665d7b4eb73bffb6f4adbadf0c",
+            "home": "fae85255881036a321c5101578a213487e57de0f27990df94f737b279bde669e",
+            "deep": "df3496f203c4acecade8033e06ae610ce1117cd0f9a747dd280a50f9c54aff3f"
         }
     },
     "privacy_exclusions": [
@@ -494,22 +487,13 @@
             "url": "https://truenorthsos.com/",
             "http_code": 200,
             "error": null,
-            "response_ms": 70,
+            "response_ms": 318,
             "quality": {
-                "html_sha256": "a8b5b99d3c2cebae4166b3a82ab6be3cdc1fffd96e3da420acba07c5b4077761",
-                "html_bytes": 1215694,
-                "raw_theme_placeholders": [
-                    "trans-menu",
-                    "trans-contacts",
-                    "trans-contact_email",
-                    "trans-contact_phone",
-                    "trans-socials",
-                    "trans-newsletter",
-                    "trans-current-year",
-                    "trans-all-rights-reserved"
-                ],
-                "newsletter_form_detected": true,
-                "newsletter_unavailable_text_detected": true,
+                "html_sha256": "10bc1210171955f7b627ab2a8c3f5cb010b9237e0079faf88c9954ff140786e0",
+                "html_bytes": 1212393,
+                "raw_theme_placeholders": [],
+                "newsletter_form_detected": false,
+                "newsletter_unavailable_text_detected": false,
                 "life_sos_marker_detected": true,
                 "viewport_meta_present": true,
                 "lang_attribute_present": true,
@@ -520,11 +504,11 @@
                 "unlabelled_buttons": 0
             },
             "security_headers": {
-                "strict_transport_security": false,
+                "strict_transport_security": true,
                 "content_security_policy": true,
-                "x_content_type_options": false,
-                "referrer_policy": false,
-                "x_frame_options": false
+                "x_content_type_options": true,
+                "referrer_policy": true,
+                "x_frame_options": true
             },
             "internal_link_scan": [
                 {
@@ -539,10 +523,10 @@
             "wp_cron_disabled": false,
             "publish_scheduled": true,
             "command_poll_scheduled": true,
-            "next_publish_utc": "2026-08-31T09:33:16+00:00",
-            "next_command_poll_utc": "2026-08-31T09:33:46+00:00",
-            "last_publish_at": "2026-08-31T09:28:19+00:00",
-            "last_poll_at": "2026-08-31T09:24:46+00:00"
+            "next_publish_utc": "2026-08-31T09:48:16+00:00",
+            "next_command_poll_utc": "2026-08-31T09:43:46+00:00",
+            "last_publish_at": "2026-08-31T09:34:21+00:00",
+            "last_poll_at": "2026-08-31T09:34:21+00:00"
         }
     }
 }
