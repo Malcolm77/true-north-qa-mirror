@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-08-31-v031-deep-qa-001",
+    "command_id": "2026-08-31-fixpack-regression-001",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T08:09:36+00:00",
+    "completed_at_utc": "2026-08-31T08:28:59+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
-        "http_code": 201,
-        "fingerprint": "5bdf19472d077fa63dde424d8f86b0d84dd5a761a73579e81fbf7bdd242c8625"
+        "http_code": 200,
+        "fingerprint": "85cf860330ad8a11cf0905d6eb5d266757cb5960dcdffe1485c3d3b86bb1b775"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
