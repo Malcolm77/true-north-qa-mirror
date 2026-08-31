@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-08-31-production-parity-post-litespeed-003",
+    "command_id": "2026-08-31-staging-fixpack-v013-regression-004",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T09:19:37+00:00",
+    "completed_at_utc": "2026-08-31T09:30:19+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "7dd0750cb0e3d0a93ff7cf18c76e70c59b2a17a935d4261962c1e5a8e8e3da81"
+        "fingerprint": "ee8a86104e0e2a92ddd7316d6cea751c8d787c5d53eb81e3f12af28ad71abf8e"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
