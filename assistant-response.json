@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-08-31-fixpack-v015-staging-final-regression-009",
+    "command_id": "2026-08-31-family-beta-v102-regression-010",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T11:14:51+00:00",
+    "completed_at_utc": "2026-08-31T13:19:18+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "bd46b8d3eff657f35492537a2d63cdfb5677c8591a6773838f442083dfe1ff33"
+        "fingerprint": "3c85741f97032075bff2343ab5cb4c8272c46f2fe7f9050e074bd229b4fa85e6"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
