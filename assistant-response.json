@@ -1,10 +1,14 @@
 {
-    "command_id": "invalid",
-    "action": "",
-    "completed_at_utc": "2026-08-31T13:40:19+00:00",
-    "ok": false,
-    "status": "rejected_not_json_object",
-    "result": [],
+    "command_id": "2026-08-31-family-beta-v110-release-audit-011",
+    "action": "run_safe_qa",
+    "completed_at_utc": "2026-08-31T13:44:23+00:00",
+    "ok": true,
+    "status": "completed",
+    "result": {
+        "ok": true,
+        "http_code": 200,
+        "fingerprint": "06ac78f5446955e59ed4f54b0a85fd93ca75072474ef71b4a31d566ada71a00b"
+    },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
 }
