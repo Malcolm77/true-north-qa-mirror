@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-08-31-production-parity-001",
+    "command_id": "2026-08-31-production-parity-post-purge-002",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-08-31T09:00:01+00:00",
+    "completed_at_utc": "2026-08-31T09:13:58+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "f021a4a680cd30496fdcd76d4a3e8c11e49e608646faedd771d34b42cf41efdd"
+        "fingerprint": "afeba98eba4ce458dc822dbe7ff03cd173c20d765e6256de7c239d9d5956146a"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
