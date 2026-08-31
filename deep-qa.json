@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "deep_safe_qa",
-        "generated_at_utc": "2026-08-31T09:00:00+00:00",
+        "generated_at_utc": "2026-08-31T09:13:56+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "f021a4a680cd30496fdcd76d4a3e8c11e49e608646faedd771d34b42cf41efdd"
+        "fingerprint": "afeba98eba4ce458dc822dbe7ff03cd173c20d765e6256de7c239d9d5956146a"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -364,26 +364,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 396
+            "response_ms": 464
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 123
+            "response_ms": 99
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 171,
+            "response_ms": 166,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 425,
-        "html_sha256": "7fe1d89beb189c7293555d0cfbcd10c40b6839e1a1457d4878a77596b8cd6dee",
+        "response_ms": 432,
+        "html_sha256": "20b95fceb2a50ca32feee848bb1b5b437075bcee7da810d21940ecb7be6e1fd5",
         "html_bytes": 1230272,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -462,9 +462,9 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "64af97c6668a891ab6d897e9a8d7a6af41e122e6c4ad0ba1d5294396583b9d2b",
-            "home": "6f4cab845d4a96bf2f775c615a4fac974cc249e88a3d05b559e00ca9891d822e",
-            "deep": "e37560538024f6f185cc6fd0e02086377eddca20b9d78831e1927d9daca14da5"
+            "routes": "cfc732936efb86a3d1c00cbe041837bb71b51a156c4144299fe5e115c65d2cdf",
+            "home": "a46ea8a2042685e807e406eff5973ee5b1bce9b53a071d463962a9b3d797347f",
+            "deep": "bd760fb29dce508140b04f9bc12690ea5216b1a39d7d2fb543f5d4070bdbb102"
         }
     },
     "privacy_exclusions": [
@@ -494,9 +494,9 @@
             "url": "https://truenorthsos.com/",
             "http_code": 200,
             "error": null,
-            "response_ms": 125,
+            "response_ms": 1468,
             "quality": {
-                "html_sha256": "3a173d972ff522fb236fb13ba4f832f3b7a94d8a4c58dbcae214bf16616b1394",
+                "html_sha256": "a8b5b99d3c2cebae4166b3a82ab6be3cdc1fffd96e3da420acba07c5b4077761",
                 "html_bytes": 1215694,
                 "raw_theme_placeholders": [
                     "trans-menu",
@@ -530,7 +530,7 @@
                 {
                     "path": "/",
                     "http_code": 200,
-                    "response_ms": 27,
+                    "response_ms": 40,
                     "error": null
                 }
             ]
@@ -539,10 +539,10 @@
             "wp_cron_disabled": false,
             "publish_scheduled": true,
             "command_poll_scheduled": true,
-            "next_publish_utc": "2026-08-31T09:03:16+00:00",
-            "next_command_poll_utc": "2026-08-31T09:03:46+00:00",
-            "last_publish_at": "2026-08-31T08:59:49+00:00",
-            "last_poll_at": "2026-08-31T08:54:58+00:00"
+            "next_publish_utc": "2026-08-31T09:18:16+00:00",
+            "next_command_poll_utc": "2026-08-31T09:18:46+00:00",
+            "last_publish_at": "2026-08-31T09:09:54+00:00",
+            "last_poll_at": "2026-08-31T09:09:26+00:00"
         }
     }
 }
