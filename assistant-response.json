@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-09-02-stage1-v110-post-install-qa-002",
+    "command_id": "2026-09-02-stage1-audit-reset-baseline-003",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-09-02T18:28:56+00:00",
+    "completed_at_utc": "2026-09-02T20:50:37+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "c755a4c82178cc454e200dcd57b193567991a9cb46b5d80620e33f3578a31349"
+        "fingerprint": "727a6497ff6b9be1f505ac0dcece9719e156e92239e88dcc6edce288e6c946ee"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
