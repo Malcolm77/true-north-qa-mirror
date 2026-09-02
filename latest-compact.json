@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-09-02T18:15:39+00:00",
+        "generated_at_utc": "2026-09-02T18:21:06+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "9c909cda513128b756379b1a7c0f075aabd7ba9e43f57d593da9171de043ab91",
-        "generation_ms": 2988.7,
+        "fingerprint": "8a65c7fce9a09759d3e289109668e0dbc1b5b520ec110ea67f0c25850204adca",
+        "generation_ms": 2814.1,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -222,12 +222,12 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 296.7,
-                "html_bytes": 105179,
-                "html_sha256": "ab65f404b3e6f0dd5082e1ef5fe3a48f40a6d6da8e222efc9d112d6656b0b44f",
-                "visible_text_chars": 3503,
-                "visible_text_sha256": "9ef795b9d7775e99d98ab0f42f77768305a9e96577e555dd934b742842cfe7af",
-                "visible_text_excerpt": "The Tribe Network Skip to content The Tribe Network Men • community • knowledge • practical help The Tribe Network A community of men finding direction together. A place for adult men to talk, share useful experience, explore ideas and interests, and learn from other men. You do not have to agree with everyone. The point is to have somewhere useful to return to. Apply to join The Tribe Network Explore the network Need practical help? Life SOS What this is A place to talk, learn and find your direction. The Tribe Network is an adult men’s community built around real conversation, useful knowledge, interests, practical experience and different perspectives. It is not about telling men what to think. It is about giving men somewhere to compare ideas, share what they know and work out what is useful for themselves. Why a tribe? Experience should travel. Men learn from other men around them — fathers, brothers, friends, workmates, mentors and older men who have already walked part of the road. Skills, judgement and hard-won lessons are often passed from one man to another. The Tribe Network gives that exchange an organised place to happen. Experience is perspective, not automatic authority. What you get A men’s space without an enemy. Sometimes men want a space to talk with other men, just as women can value women-only spaces. That does not require hostility towards women or anyone else. The room is for honest discussion, useful knowledge, hobbies, interests and practical experience. Different views are welcome. Respect still matters. Fatherhood & relationships Work & money Men’s health & wellbeing Cars & motorbikes DIY & practical skills Fishing & outdoors Books & ideas Sport & fitness Explore before you join See what the network is about first. You should not have to hand over an email address just to understand what is here. Public Explore content will include useful books, articles, posts and links worth finding again. The private forums and member community stay behind admission. Books & ideas Material worth exploring, with a short explanation of why it may be useful. Articles & posts Short, plain-English pieces around real-life interests, questions and problems. Useful resources Public links and practical resources organised so useful things are easier to find again. Stage 1: the public Explore library/blog is the next content block. Private forums, specialist material and protected member content remain locked. Three ways in Choose what you need. No pressure. Apply to join The Tribe Network Join the private community when applications open. Membership remains subject to the existing verification, review and admission process. About joining Explore the network Read public material first. No login and no email required just to see what the network is about. Explore Need practical help? Life SOS Something happened and you need help working out what to do next. It is free to understand where you stand. Paid preparation comes later, only if you choose it. Go to Life SOS Founding members Come in at the beginning. The first members will help shape the rooms, interests and culture of The Tribe Network. We are opening the community carefully rather than pretending we already know what every future member will want. Public applications are not yet open. When they do open, joining will continue to use the existing verification, genuine review and admission process. The Tribe Network • network@tribe-sos.com © The Tribe Network Explore Apply Life SOS",
+                "fetch_ms": 315.6,
+                "html_bytes": 105370,
+                "html_sha256": "2f5bf9482e8b1ac73482927df464ff61057946ac19f3d837517b818f279c6c23",
+                "visible_text_chars": 3523,
+                "visible_text_sha256": "481bf9b8edc401ad6307ace85318ca1c2aa6343243be8508d01937901243f88c",
+                "visible_text_excerpt": "The Tribe Network Skip to content The Tribe Network Men • community • knowledge • practical help The Tribe Network A community of men finding direction together. A place for adult men to talk, share useful experience, explore ideas and interests, and learn from other men. You do not have to agree with everyone. The point is to have somewhere useful to return to. Apply to join The Tribe Network Explore the network Need practical help? Life SOS What this is A place to talk, learn and find your direction. The Tribe Network is an adult men’s community built around real conversation, useful knowledge, interests, practical experience and different perspectives. It is not about telling men what to think. It is about giving men somewhere to compare ideas, share what they know and work out what is useful for themselves. Why a tribe? Experience should travel. Men learn from other men around them — fathers, brothers, friends, workmates, mentors and older men who have already walked part of the road. Skills, judgement and hard-won lessons are often passed from one man to another. The Tribe Network gives that exchange an organised place to happen. Experience is perspective, not automatic authority. What you get A men’s space without an enemy. Sometimes men want a space to talk with other men, just as women can value women-only spaces. That does not require hostility towards women or anyone else. The room is for honest discussion, useful knowledge, hobbies, interests and practical experience. Different views are welcome. Respect still matters. Fatherhood & relationships Work & money Men’s health & wellbeing Cars & motorbikes DIY & practical skills Fishing & outdoors Books & ideas Sport & fitness \\n Explore Explore before you join See what the network is about first. You should not have to hand over an email address just to understand what is here. Public Explore content will include useful books, articles, posts and links worth finding again. The private forums and member community stay behind admission. Books & ideas Material worth exploring, with a short explanation of why it may be useful. Articles & posts Short, plain-English pieces around real-life interests, questions and problems. Useful resources Public links and practical resources organised so useful things are easier to find again. Stage 1: the public Explore library/blog is the next content block. Private forums, specialist material and protected member content remain locked. Three ways in Choose what you need. No pressure. Apply to join The Tribe Network Join the private community when applications open. Membership remains subject to the existing verification, review and admission process. About joining Explore the network Read public material first. No login and no email required just to see what the network is about. Explore Need practical help? Life SOS Something happened and you need help working out what to do next. It is free to understand where you stand. Paid preparation comes later, only if you choose it. Go to Life SOS \\n Apply Founding members Come in at the beginning. The first members will help shape the rooms, interests and culture of The Tribe Network. We are opening the community carefully rather than pretending we already know what every future member will want. Public applications are not yet open. When they do open, joining will continue to use the existing verification, genuine review and admission process. The Tribe Network • network@tribe-sos.com © The Tribe Network Explore Apply Life SOS",
                 "meta": {
                     "title": "The Tribe Network",
                     "description": "The Tribe Network is a community of men finding direction together — conversation, useful knowledge, interests and practical help when needed.",
@@ -357,9 +357,9 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 296.7,
-                    "html_bytes": 105179,
-                    "dom_elements": 149,
+                    "fetch_ms": 315.6,
+                    "html_bytes": 105370,
+                    "dom_elements": 151,
                     "scripts": 0,
                     "stylesheets": 2,
                     "images": 0,
@@ -480,6 +480,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-09-02T18:15:39+00:00"
+        "generated_at_utc": "2026-09-02T18:21:06+00:00"
     }
 }
