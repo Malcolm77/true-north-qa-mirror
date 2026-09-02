@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-08-31T20:20:20+00:00",
+        "generated_at_utc": "2026-09-02T18:15:39+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "ad333477aa679f43c956f1fea6156c7bf14118e2f82f469821fd30f05b4eb885",
-        "generation_ms": 5110.4,
+        "fingerprint": "9c909cda513128b756379b1a7c0f075aabd7ba9e43f57d593da9171de043ab91",
+        "generation_ms": 2988.7,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -52,6 +52,9 @@
         },
         {
             "name": "LiteSpeed Cache"
+        },
+        {
+            "name": "The Tribe Network — Stage 1 Landing Facelift"
         },
         {
             "name": "True North — Finish-Line Fix Pack"
@@ -219,15 +222,15 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 451.8,
-                "html_bytes": 1230468,
-                "html_sha256": "2969c226d83d82d009349b1e71a833b3622ec8b560d483b117ec69dc7473e890",
-                "visible_text_chars": 11676,
-                "visible_text_sha256": "a3273be7692063b3379778337ef0171075026bf6745bd9ba95732d213e73a853",
-                "visible_text_excerpt": "True North by Life SOS – The Tribe Network Skip to content True North by Life SOS TRUE NORTHTHE TRIBE NETWORK Explore Tribe Network How we think Apply Life SOS Men • community • direction • practical support True North by Life SOS The Tribe Network A community of men finding direction together. Belong. Speak freely. Share what you know. Learn from other men. Find your direction — and practical help when you need it. Speak freely. Challenge honestly. Respect the tribe. Open discussion with shared community standards. Challenge the idea. Respect the man. Protect the room. Apply to join the Tribe Network Explore the Network I need practical help Free to apply • 18+ • Email verification • Review and admission One community. Useful knowledge. Real interests. Life SOS when discussion is not enough. No guru culture.No requirement to agree.Challenge ideas, not people.Men’s issues do not require an enemy. Apply to join the Tribe Network Come in at the beginning. Free to apply • 18+ • verify your email • admission required Apply free. If admitted, enter the Tribe Network, find areas that matter to you, share ideas, experience and interests, learn from other men — and help shape the network as it grows. Founding members help shape the place. The first members help establish the rooms, interests, conversations and culture. We will not pretend to know every future room now — new spaces should grow from genuine member demand. One verified account. Reused carefully. Where appropriate, safe account facts such as your display name and verified email may be reused if you later use Life SOS, so you do not have to start again. Community posts and opinions are not automatically carried into a Life SOS case. Ask once. Reuse safely. 1. ApplyPreferred/display name, email and required membership declarations. 2. VerifyConfirm your email before your application moves to review. 3. ReviewYour verified application is held for genuine review. 4. AdmitAn admission decision is recorded. Verification alone does not grant membership. 5. EnterAdmitted members enter the private Tribe Network. Apply to join the Tribe Network Public applications are not yet open. We are completing the founding, governance and admission arrangements before opening the route. Application preview • no information is being collected here Preferred / display nameThe name you want other members to see. Email addressUsed to verify your application and account. 1You will confirm that you are aged 18 or over. 2You will confirm that you are a man and meet The Tribe Network membership criterion. 3You will be asked to read and accept the Constitution / Membership Rules. 4You will be asked to read and accept the Membership & Community Terms. 5You will be asked to read and accept the Community Standards.Read the standards summary on this page. Privacy: the Privacy Policy will explain how applicant and member information is used. It is presented as privacy information, not as blanket consent. Any future marketing choice will be separate and optional. How admission works: when applications open, email verification will move the application into review. Verification alone will not grant membership. Only an admitted applicant will enter the private Tribe Network. Public applications not yet open The principle No single book. No single philosophy. No final answer. Explore it. Question it. Compare it. Decide what is useful. Think for yourselfStep outside the noise. There are already enough people competing to tell men what they should believe, want, earn, tolerate, become or feel. AlgorithmsAdvertisingPoliticsSocial mediaNewsInfluencersWorkCultureExpectations Better questions create better judgement. What do I actually think?What matters to me?What am I responsible for?What kind of man do I want to become?What needs to change? This week’s questionWhat belief have you changed your mind about in the last five years — and what changed it? The Tribe Network knowledge bankUseful things should not disappear down an endless feed. Books. Videos. Podcasts. Useful organisations. Practical know-how. Different perspectives. Lessons learned the hard way. The Tribe Network can build a growing bank of material worth finding again — shared by members, questioned openly and never treated as automatically endorsed. Why explore it?What makes this idea, argument or experience worth your attention? What’s useful?What practical principle or question can you take from it? What should we question?Where could it be incomplete, exaggerated or dependent on circumstance? Where could it help?In what real-life situations might this perspective genuinely add value? Where could it go wrong?What happens if the principle is applied rigidly, recklessly or without context? Inside the Tribe NetworkIdeas worth exploring. Conversations worth having. ExploreThe Reading RoomBooks, articles and talks worth exploring — not because the Tribe agrees with every word, but because good material gives us something to think about. Watch & listenDifferent voicesVideos, interviews and podcasts that challenge assumptions, add context or change the angle from which you see something. CommunityThe Men’s TableReal discussion about work, money, relationships, fatherhood, health, purpose, pressure, responsibility, success and starting again. Make & doThe WorkshopDIY, repairs, practical skills, projects, tools and the sort of useful knowledge men often learn by doing and passing on. InterestsOff the ClockSport, cars, motorbikes, fishing, outdoors, gaming, technology and the interests that give men somewhere to connect beyond life’s problems. ExperienceField NotesThings that worked, things that did not, lessons learned and ideas somebody wishes they had understood ten years earlier. DiscoverFind videos, books, practical resources, people and ideas worth your time.DiscussQuestion, disagree well and hear how other men see the same issue.ContributeShare a worthwhile link, lesson, experience, skill or question with the community.ReturnWeekly questions, new resources and growing rooms give the network a reason to stay useful and alive. Shared by a member does not mean endorsed by Life SOS. Useful ideas can be explored, questioned and discussed without being adopted as a Life SOS position. Conversation can lead somewhere. If the same issue keeps appearing, the Tribe Network can help understand it properly rather than simply amplify it. ConversationRecurring patternEvidenceMember mandateConstructive action No automatic campaigning. Any action in members’ names must be evidence-led, auditable, proportionate and explicitly supported by members. A few places to start Organised around real life — and the things men actually enjoy doing. These are starting points, not a fixed menu. Rooms should grow from genuine member demand. Fatherhood & relationships Work & money Men’s health & wellbeing Purpose & self-development Books, ideas & culture Sport & fitness Cars & motorbikes DIY & practical skills Fishing & outdoors Gaming & technology Travel, music & cooking Local clubs, groups & interests Community standing is earned, not bought. Time in the community, constructive participation, useful contributions and good judgement matter more than payment. Shared community standardsSpeak freely. Challenge honestly. Respect the tribe.Challenge the idea. Respect the man. Protect the room. Honest disagreement is welcome. Harassment, intimidation and persistent destructive behaviour are not. Moderate behaviour, not viewpoint.Challenge ideas, not people.Personal experience matters, but it isn’t automatically evidence.Nobody gets the final word because they are popular.Private problems deserve privacy.Strength does not require aggression.Changing your mind is allowed.Men’s issues do not require an enemy.Curiosity before ideology.Private reporting protects the room. If something crosses the line, members will be able to report it privately for review. A clear boundaryMen’s issues do not require an enemy.Curios",
+                "fetch_ms": 296.7,
+                "html_bytes": 105179,
+                "html_sha256": "ab65f404b3e6f0dd5082e1ef5fe3a48f40a6d6da8e222efc9d112d6656b0b44f",
+                "visible_text_chars": 3503,
+                "visible_text_sha256": "9ef795b9d7775e99d98ab0f42f77768305a9e96577e555dd934b742842cfe7af",
+                "visible_text_excerpt": "The Tribe Network Skip to content The Tribe Network Men • community • knowledge • practical help The Tribe Network A community of men finding direction together. A place for adult men to talk, share useful experience, explore ideas and interests, and learn from other men. You do not have to agree with everyone. The point is to have somewhere useful to return to. Apply to join The Tribe Network Explore the network Need practical help? Life SOS What this is A place to talk, learn and find your direction. The Tribe Network is an adult men’s community built around real conversation, useful knowledge, interests, practical experience and different perspectives. It is not about telling men what to think. It is about giving men somewhere to compare ideas, share what they know and work out what is useful for themselves. Why a tribe? Experience should travel. Men learn from other men around them — fathers, brothers, friends, workmates, mentors and older men who have already walked part of the road. Skills, judgement and hard-won lessons are often passed from one man to another. The Tribe Network gives that exchange an organised place to happen. Experience is perspective, not automatic authority. What you get A men’s space without an enemy. Sometimes men want a space to talk with other men, just as women can value women-only spaces. That does not require hostility towards women or anyone else. The room is for honest discussion, useful knowledge, hobbies, interests and practical experience. Different views are welcome. Respect still matters. Fatherhood & relationships Work & money Men’s health & wellbeing Cars & motorbikes DIY & practical skills Fishing & outdoors Books & ideas Sport & fitness Explore before you join See what the network is about first. You should not have to hand over an email address just to understand what is here. Public Explore content will include useful books, articles, posts and links worth finding again. The private forums and member community stay behind admission. Books & ideas Material worth exploring, with a short explanation of why it may be useful. Articles & posts Short, plain-English pieces around real-life interests, questions and problems. Useful resources Public links and practical resources organised so useful things are easier to find again. Stage 1: the public Explore library/blog is the next content block. Private forums, specialist material and protected member content remain locked. Three ways in Choose what you need. No pressure. Apply to join The Tribe Network Join the private community when applications open. Membership remains subject to the existing verification, review and admission process. About joining Explore the network Read public material first. No login and no email required just to see what the network is about. Explore Need practical help? Life SOS Something happened and you need help working out what to do next. It is free to understand where you stand. Paid preparation comes later, only if you choose it. Go to Life SOS Founding members Come in at the beginning. The first members will help shape the rooms, interests and culture of The Tribe Network. We are opening the community carefully rather than pretending we already know what every future member will want. Public applications are not yet open. When they do open, joining will continue to use the existing verification, genuine review and admission process. The Tribe Network • network@tribe-sos.com © The Tribe Network Explore Apply Life SOS",
                 "meta": {
-                    "title": "True North by Life SOS – The Tribe Network",
-                    "description": "",
+                    "title": "The Tribe Network",
+                    "description": "The Tribe Network is a community of men finding direction together — conversation, useful knowledge, interests and practical help when needed.",
                     "canonical": "https://audit.truenorthsos.com/",
                     "robots": "noindex, nofollow, noarchive, nosnippet, noimageindex",
                     "viewport": "width=device-width, initial-scale=1",
@@ -236,83 +239,55 @@
                 "headings": [
                     {
                         "level": 1,
-                        "text": "True North"
+                        "text": "The Tribe Network"
+                    },
+                    {
+                        "level": 2,
+                        "text": "A place to talk, learn and find your direction."
+                    },
+                    {
+                        "level": 2,
+                        "text": "Experience should travel."
+                    },
+                    {
+                        "level": 2,
+                        "text": "A men’s space without an enemy."
+                    },
+                    {
+                        "level": 2,
+                        "text": "See what the network is about first."
+                    },
+                    {
+                        "level": 3,
+                        "text": "Books & ideas"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Articles & posts"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Useful resources"
+                    },
+                    {
+                        "level": 2,
+                        "text": "Choose what you need. No pressure."
+                    },
+                    {
+                        "level": 3,
+                        "text": "Apply to join The Tribe Network"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Explore the network"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Need practical help? Life SOS"
                     },
                     {
                         "level": 2,
                         "text": "Come in at the beginning."
-                    },
-                    {
-                        "level": 3,
-                        "text": "Apply to join the Tribe Network"
-                    },
-                    {
-                        "level": 2,
-                        "text": "No single book. No single philosophy. No final answer."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Step outside the noise."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Useful things should not disappear down an endless feed."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Ideas worth exploring. Conversations worth having."
-                    },
-                    {
-                        "level": 3,
-                        "text": "The Reading Room"
-                    },
-                    {
-                        "level": 3,
-                        "text": "Different voices"
-                    },
-                    {
-                        "level": 3,
-                        "text": "The Men’s Table"
-                    },
-                    {
-                        "level": 3,
-                        "text": "The Workshop"
-                    },
-                    {
-                        "level": 3,
-                        "text": "Off the Clock"
-                    },
-                    {
-                        "level": 3,
-                        "text": "Field Notes"
-                    },
-                    {
-                        "level": 3,
-                        "text": "Organised around real life — and the things men actually enjoy doing."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Speak freely. Challenge honestly. Respect the tribe."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Difficult subjects deserve intelligent conversation."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Become better equipped to deal with life."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Built from curiosity, not certainty."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Sometimes life stops being theoretical."
-                    },
-                    {
-                        "level": 2,
-                        "text": "Find your direction. Find your people. Help build something worth returning to."
                     }
                 ],
                 "links": [
@@ -322,72 +297,37 @@
                         "internal": true
                     },
                     {
-                        "text": "True North by Life SOS",
+                        "text": "The Tribe Network",
                         "href": "https://audit.truenorthsos.com",
                         "internal": true
                     },
                     {
-                        "text": "TRUE NORTHTHE TRIBE NETWORK",
-                        "href": "https://audit.truenorthsos.com/#life-sos-top",
+                        "text": "Apply to join The Tribe Network",
+                        "href": "https://audit.truenorthsos.com/#tn-stage1-founding",
+                        "internal": true
+                    },
+                    {
+                        "text": "Explore the network",
+                        "href": "https://audit.truenorthsos.com/#tn-stage1-explore",
+                        "internal": true
+                    },
+                    {
+                        "text": "Need practical help? Life SOS",
+                        "href": "https://audit.truenorthsos.com/?tn_life_sos=1",
+                        "internal": true
+                    },
+                    {
+                        "text": "About joining",
+                        "href": "https://audit.truenorthsos.com/#tn-stage1-founding",
                         "internal": true
                     },
                     {
                         "text": "Explore",
-                        "href": "https://audit.truenorthsos.com/#life-sos-explore",
+                        "href": "https://audit.truenorthsos.com/#tn-stage1-explore",
                         "internal": true
                     },
                     {
-                        "text": "Tribe Network",
-                        "href": "https://audit.truenorthsos.com/#life-sos-community",
-                        "internal": true
-                    },
-                    {
-                        "text": "How we think",
-                        "href": "https://audit.truenorthsos.com/#life-sos-thinking",
-                        "internal": true
-                    },
-                    {
-                        "text": "Apply",
-                        "href": "https://audit.truenorthsos.com/#life-sos-join",
-                        "internal": true
-                    },
-                    {
-                        "text": "Life SOS",
-                        "href": "https://audit.truenorthsos.com/?tn_life_sos=1",
-                        "internal": true
-                    },
-                    {
-                        "text": "Apply to join the Tribe Network",
-                        "href": "https://audit.truenorthsos.com/#life-sos-join",
-                        "internal": true
-                    },
-                    {
-                        "text": "Explore the Network",
-                        "href": "https://audit.truenorthsos.com/#life-sos-explore",
-                        "internal": true
-                    },
-                    {
-                        "text": "I need practical help",
-                        "href": "https://audit.truenorthsos.com/?tn_life_sos=1",
-                        "internal": true
-                    },
-                    {
-                        "text": "Read the standards summary on this page.",
-                        "href": "https://audit.truenorthsos.com/#life-sos-standards",
-                        "internal": true
-                    },
-                    {
-                        "text": "Apply to join the Tribe Network",
-                        "href": "https://audit.truenorthsos.com/#life-sos-join",
-                        "internal": true
-                    },
-                    {
-                        "text": "Explore the Network",
-                        "href": "https://audit.truenorthsos.com/#life-sos-explore",
-                        "internal": true
-                    },
-                    {
-                        "text": "I need help",
+                        "text": "Go to Life SOS",
                         "href": "https://audit.truenorthsos.com/?tn_life_sos=1",
                         "internal": true
                     },
@@ -417,20 +357,20 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 451.8,
-                    "html_bytes": 1230468,
-                    "dom_elements": 370,
+                    "fetch_ms": 296.7,
+                    "html_bytes": 105179,
+                    "dom_elements": 149,
                     "scripts": 0,
                     "stylesheets": 2,
-                    "images": 3,
-                    "links": 18,
+                    "images": 0,
+                    "links": 11,
                     "forms": 0
                 },
                 "image_metrics": {
-                    "count": 3,
-                    "data_uri_or_base64_count": 3,
+                    "count": 0,
+                    "data_uri_or_base64_count": 0,
                     "missing_alt_count": 0,
-                    "missing_dimensions_count": 3
+                    "missing_dimensions_count": 0
                 }
             }
         }
@@ -459,7 +399,7 @@
         {
             "id": "V3-BRAND-001",
             "label": "Homepage presents True North",
-            "status": "PASS",
+            "status": "NEEDS_REVISION",
             "evidence": ""
         },
         {
@@ -489,19 +429,19 @@
         {
             "id": "V3-GOV-001",
             "label": "Community Standards are linked or named publicly",
-            "status": "PASS",
+            "status": "MISSING",
             "evidence": ""
         },
         {
             "id": "V3-GOV-002",
             "label": "Privacy is linked or named publicly",
-            "status": "PASS",
+            "status": "MISSING",
             "evidence": ""
         },
         {
             "id": "V3-GOV-003",
             "label": "Terms are linked or named publicly",
-            "status": "PASS",
+            "status": "MISSING",
             "evidence": ""
         },
         {
@@ -540,6 +480,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-08-31T20:20:21+00:00"
+        "generated_at_utc": "2026-09-02T18:15:39+00:00"
     }
 }
