@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-09-02T19:13:19+00:00",
+        "generated_at_utc": "2026-09-02T19:15:24+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "8a3dda3c6bdc76d9cb220c7c13b6f48cd7abc3ef598dec4d07564ea8f9aadf59",
-        "generation_ms": 2959,
+        "fingerprint": "5ae7a9a47616050e9ebe4292ac1009febd66ef6617c73e5454cc45df8145de0d",
+        "generation_ms": 2609.4,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -49,9 +49,6 @@
         },
         {
             "name": "Hostinger Tools"
-        },
-        {
-            "name": "LiteSpeed Cache"
         },
         {
             "name": "The Tribe Network — Stage 1 Landing Facelift"
@@ -225,9 +222,9 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 330.9,
-                "html_bytes": 105264,
-                "html_sha256": "e7353a684d0293a2794e27c554c645f7b5d438521e23f0f2526202453202f776",
+                "fetch_ms": 268.6,
+                "html_bytes": 105192,
+                "html_sha256": "ecd60765dbe86324d52c30217758424fc569cc6a13224720061b9e7493c36ea6",
                 "visible_text_chars": 2546,
                 "visible_text_sha256": "816e4b248fcc8b9844db5964e867e2cdeacdaa5734ddb6e73490f9b401a795ad",
                 "visible_text_excerpt": "The Tribe Network Skip to content The Tribe Network Men • community • knowledge • practical help The Tribe Network A community of men finding direction together. A place for adult men to talk, share useful experience, explore ideas and interests, and learn from other men. You do not have to agree with everyone. The point is to have somewhere useful to return to. Apply to join The Tribe Network Explore the network Need practical help? Life SOS What this is A place to talk, learn and find your direction. The Tribe Network is an adult men’s community built around real conversation, useful knowledge, interests, practical experience and different perspectives. It is not about telling men what to think. It is about giving men somewhere to compare ideas, share what they know and work out what is useful for themselves. Why a tribe? Experience should travel. Men learn from other men around them — fathers, brothers, friends, workmates, mentors and older men who have already walked part of the road. Skills, judgement and hard-won lessons are often passed from one man to another. The Tribe Network gives that exchange an organised place to happen. Experience is perspective, not automatic authority. What you get A men’s space without an enemy. Sometimes men want a space to talk with other men, just as women can value women-only spaces. That does not require hostility towards women or anyone else. The room is for honest discussion, useful knowledge, hobbies, interests and practical experience. Different views are welcome. Respect still matters. Three ways in Choose what you need. No pressure. Apply to join The Tribe Network See what membership means, how admission works and what you will be asked to agree to before applying. About joining Explore the network See public ideas, interests, articles and useful resources before deciding whether the private community is for you. Explore Need practical help? Life SOS Something happened and you need help working out what to do next. Understand where you stand first; paid preparation comes later only if you choose it. About Life SOS Founding members Come in at the beginning. The first members will help shape the rooms, interests and culture of The Tribe Network. We are opening the community carefully rather than pretending we already know what every future member will want. Public applications are not yet open. The existing verification, genuine review and admission controls remain in place. The Tribe Network • network@tribe-sos.com © The Tribe Network Explore Apply Life SOS",
@@ -344,8 +341,8 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 330.9,
-                    "html_bytes": 105264,
+                    "fetch_ms": 268.6,
+                    "html_bytes": 105192,
                     "dom_elements": 123,
                     "scripts": 0,
                     "stylesheets": 2,
@@ -467,6 +464,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-09-02T19:13:20+00:00"
+        "generated_at_utc": "2026-09-02T19:15:24+00:00"
     }
 }
