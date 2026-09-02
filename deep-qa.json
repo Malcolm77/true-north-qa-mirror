@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "deep_safe_qa",
-        "generated_at_utc": "2026-08-31T13:44:22+00:00",
+        "generated_at_utc": "2026-09-02T18:11:42+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "06ac78f5446955e59ed4f54b0a85fd93ca75072474ef71b4a31d566ada71a00b"
+        "fingerprint": "ef9abda2e193f74739f862a7eaea561fe0446f45d431697b2a7c4a65856cbdda"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -29,12 +29,11 @@
         "True North Control Plane",
         "True North QA Reporter",
         "True North V5.1 Launch Builder",
-        "True North \u2014 Family Beta V1",
-        "True North \u2014 Family Test Gateway",
         "True North \u2014 Final Accessibility Patch",
         "True North \u2014 Finish-Line Autopilot",
         "True North \u2014 Finish-Line Fix Pack",
         "True North \u2014 Governance Draft Pack",
+        "True North \u2014 Internal Walkthrough",
         "True North \u2014 Life SOS Required Action Spotlight",
         "True North \u2014 QA Access Matrix",
         "True North \u2014 Tribe Access Lockdown"
@@ -56,16 +55,6 @@
             "file_count": 1
         },
         {
-            "name": "True North \u2014 Family Beta V1",
-            "tree_sha256": "0a8ea21841a6e26f64f75bed4725acb8cf407f460baf2d382b6ba51ff09f0bdc",
-            "file_count": 6
-        },
-        {
-            "name": "True North \u2014 Family Test Gateway",
-            "tree_sha256": "016090919d467c29c668bb7d5ef686ae8bd92f5937857df147e96be099a4dcc4",
-            "file_count": 2
-        },
-        {
             "name": "True North \u2014 Final Accessibility Patch",
             "tree_sha256": "8744f8dc0618743eda5e82f67d030dffcf158c78d9317dbf7accf79ebce81bf6",
             "file_count": 2
@@ -84,6 +73,11 @@
             "name": "True North \u2014 Governance Draft Pack",
             "tree_sha256": "9440758970edf4b4c968642323f875cfcfba651f2fd8635ebbf82ca4394bb3a6",
             "file_count": 2
+        },
+        {
+            "name": "True North \u2014 Internal Walkthrough",
+            "tree_sha256": "b6f552777e11cf57bc9bf067d35f61f02612f5351bdc87d84187009e426b5cdb",
+            "file_count": 4
         },
         {
             "name": "True North \u2014 Life SOS Required Action Spotlight",
@@ -382,26 +376,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 457
+            "response_ms": 438
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 105
+            "response_ms": 118
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 199,
+            "response_ms": 169,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 489,
-        "html_sha256": "0bec16d0866e3948a87225cd2bd1978d743f8e7b7b7bcab370db79aa8cced3cf",
+        "response_ms": 411,
+        "html_sha256": "5053afd9dae478a715ab137f014530f8293a0d2d76e5cad596dfe40f024d642b",
         "html_bytes": 1230468,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -462,7 +456,7 @@
         ],
         "section_fingerprints": {
             "site": "5abfe2858e0f58ee5d9c907e3b1ba25bda8ad6bc44af7e5999b72fd2c6ef6066",
-            "components": "87835886a74eaeaede30802c01c54da4e641ffa7f010d5038550f3364b13a5b7",
+            "components": "55f860f675fc5b531012ebf94a5941497062e5b41244694b1687340f1d4ecff4",
             "source_integrity": "6b4af158315824b07f5f3942d0857c8dbff8f3d7a062cfb18e4b26a9cb7ffbd4",
             "snippet_integrity": "31f0430474596dd699dfa262837bb627bf3190b15e008229b0e8a7c822ba8993",
             "roles": "9079e87e523a2c9cd36cd5d1346b7c203a9e7e90408ff3c6d1e066cc78f7efa7",
@@ -473,9 +467,9 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "1ac6f1b41b66ebf54c21326031db239475938fd4cc646346fa34a64b8219e29f",
-            "home": "8d4a4df7de8e64ac8c4e84fa4c754b1c07867747be074b211ff29508d4f15f73",
-            "deep": "ea78b572680d2515d2a606f5923486866e0abe05d8aa2a84a51f8ea1aa54477c"
+            "routes": "e14ec549669e4775e78e7ba3cac91b45f6eac5a5b6dbed1e3fca51d50cc22a9a",
+            "home": "a5e87b22a010c1ff9c212ae4344641bfe8b94b4fbf28edeb6054c6731e7e192c",
+            "deep": "8bb77922b49ae8e1a8fe2dd5cd662222e6be6a6a57519b65e760fd41ad8ceafb"
         }
     },
     "privacy_exclusions": [
@@ -505,7 +499,7 @@
             "url": "https://truenorthsos.com/",
             "http_code": 200,
             "error": null,
-            "response_ms": 171,
+            "response_ms": 98,
             "quality": {
                 "html_sha256": "a99b484bd69c0bbfa8dbf5138feb00f1ac796d921e4d3ce11c1c09131dee61df",
                 "html_bytes": 1212529,
@@ -541,10 +535,10 @@
             "wp_cron_disabled": false,
             "publish_scheduled": true,
             "command_poll_scheduled": true,
-            "next_publish_utc": "2026-08-31T13:48:16+00:00",
-            "next_command_poll_utc": "2026-08-31T13:48:46+00:00",
-            "last_publish_at": "2026-08-31T13:40:23+00:00",
-            "last_poll_at": "2026-08-31T13:40:19+00:00"
+            "next_publish_utc": "2026-09-02T14:48:16+00:00",
+            "next_command_poll_utc": "2026-09-02T18:13:46+00:00",
+            "last_publish_at": "2026-09-02T14:40:42+00:00",
+            "last_poll_at": "2026-09-02T14:40:38+00:00"
         }
     }
 }
