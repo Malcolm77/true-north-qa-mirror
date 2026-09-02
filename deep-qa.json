@@ -3,14 +3,14 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "deep_safe_qa",
-        "generated_at_utc": "2026-09-02T21:04:16+00:00",
+        "generated_at_utc": "2026-09-02T21:09:16+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "17e5b31038fe2e917e3db20dda64cddd3764b243c416693375674519d3022e9a"
+        "fingerprint": "0ad3e6151710bfceebf248e78f57f0e7704f308ad2f9299d8726d2d329b46f75"
     },
     "site": {
-        "name": "True North by Life SOS",
+        "name": "The Tribe Network",
         "home_url": "https://audit.truenorthsos.com/",
         "site_url": "https://audit.truenorthsos.com/",
         "blog_public": 0,
@@ -375,27 +375,27 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 309
+            "response_ms": 328
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 116
+            "response_ms": 127
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 116,
+            "response_ms": 170,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 318,
-        "html_sha256": "7fc6f2c2c7554cacfb275468237212f44c71c1acc5cfe7f00af8f4e7e4cf4079",
-        "html_bytes": 103579,
+        "response_ms": 286,
+        "html_sha256": "e15316a47da6f3858aaada581e2d74954b49eaad9fe5d2ac973ad58202af1953",
+        "html_bytes": 103559,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
         "newsletter_unavailable_text_detected": false,
@@ -454,7 +454,7 @@
             "deep"
         ],
         "section_fingerprints": {
-            "site": "5abfe2858e0f58ee5d9c907e3b1ba25bda8ad6bc44af7e5999b72fd2c6ef6066",
+            "site": "550226072a11fc5522f31d4f1e537f435d66730bdb8a2865c78823cae07e3286",
             "components": "1c0c1e57de3ff3c6240fc157f4e6767bb4ece487df832628744c9f2793134a43",
             "source_integrity": "6b4af158315824b07f5f3942d0857c8dbff8f3d7a062cfb18e4b26a9cb7ffbd4",
             "snippet_integrity": "31f0430474596dd699dfa262837bb627bf3190b15e008229b0e8a7c822ba8993",
@@ -466,9 +466,9 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "a3f9bcdc6c471ef6f395386499e2947e341d02b5fc22b148c4177eb037258e92",
-            "home": "b1a7ac6e045cf99ccde1ca5b679ee6d6e3d3d89bfa507c0c0b0acecb0af9e3e2",
-            "deep": "43e65b916cef616fd96dfaeb7ae5e59ac183f04215afad6dbbff4776d7186075"
+            "routes": "b765cae225b25589398d452efa9d745cb1d33a6c3a10c413198f8cc62ee58c5f",
+            "home": "b882d11648a286bc713fcdd4e5cfa2c56904db4ad4cc458209916a4767603bb1",
+            "deep": "588b727258327f960dcdec2534e9af1c7a8a83336718f846553f833bbc2e3e00"
         }
     },
     "privacy_exclusions": [
@@ -498,10 +498,10 @@
             "url": "https://truenorthsos.com/",
             "http_code": 200,
             "error": null,
-            "response_ms": 48,
+            "response_ms": 72,
             "quality": {
-                "html_sha256": "a6a3092cb7036b8358c9b5ffc994a73f50dff3e9675b5c9ce894e58644ee31c3",
-                "html_bytes": 1212589,
+                "html_sha256": "a99b484bd69c0bbfa8dbf5138feb00f1ac796d921e4d3ce11c1c09131dee61df",
+                "html_bytes": 1212529,
                 "raw_theme_placeholders": [],
                 "newsletter_form_detected": false,
                 "newsletter_unavailable_text_detected": false,
@@ -525,7 +525,7 @@
                 {
                     "path": "/",
                     "http_code": 200,
-                    "response_ms": 26,
+                    "response_ms": 42,
                     "error": null
                 }
             ]
@@ -535,9 +535,9 @@
             "publish_scheduled": true,
             "command_poll_scheduled": true,
             "next_publish_utc": "2026-09-02T21:18:16+00:00",
-            "next_command_poll_utc": "2026-09-02T21:08:46+00:00",
-            "last_publish_at": "2026-09-02T21:04:14+00:00",
-            "last_poll_at": "2026-09-02T20:58:54+00:00"
+            "next_command_poll_utc": "2026-09-02T21:13:46+00:00",
+            "last_publish_at": "2026-09-02T21:07:16+00:00",
+            "last_poll_at": "2026-09-02T21:04:18+00:00"
         }
     }
 }
