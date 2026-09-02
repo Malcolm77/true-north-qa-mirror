@@ -2,12 +2,12 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-09-02T21:17:53+00:00",
+        "generated_at_utc": "2026-09-02T21:32:06+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "9a4e9422f792ea18fa807300a7055975031e4c567801f615f3cff550cf4e2ef3",
-        "generation_ms": 3327,
+        "fingerprint": "0743116fc6831082ceac52b2024923dd6aa28f5cc96e3d2c55a19b02e894abef",
+        "generation_ms": 3656.6,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
@@ -222,9 +222,9 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 366.8,
+                "fetch_ms": 351.6,
                 "html_bytes": 103559,
-                "html_sha256": "fb349d1a500f33e43f23e1a3fea642a043c498b34336cda712cb53da4e6e6603",
+                "html_sha256": "a7c6f03cb6fc49094d51db3f9e3063825dafd1c8c4ae4efd257421430ffaebca",
                 "visible_text_chars": 4938,
                 "visible_text_sha256": "57bc70840969614b805818953cd5ab373ab7dbf5c4aabe5bc663af656752c8bd",
                 "visible_text_excerpt": "The Tribe Network Skip to content The Tribe Network THE TRIBE NETWORKMEN • COMMUNITY • KNOWLEDGE • PRACTICAL HELP Explore Apply Life SOS WHAT THIS IS THE TRIBE NETWORK A community of men finding direction together. A place for adult men to talk, share useful experience, explore ideas and interests, and learn from other men. You do not have to agree with everyone. The point is to have somewhere useful to return to. Apply to join Explore the network Need practical help? Life SOS One community. Useful knowledge. Real interests. Life SOS when discussion is not enough. Real conversationUseful knowledgeInterests & hobbiesPractical experience WHY A TRIBE Experience should travel. Men have always learned from other men around them — fathers, brothers, friends, workmates, mentors and older men who have already walked part of the road. A place for useful experience to move between men. The Tribe Network gives that exchange of skills, judgement and hard-won lessons an organised place to happen. Experience is perspective, not automatic authority. WHAT YOU GET Real conversation. Useful knowledge. Interests worth sharing. A men’s space for conversation, hobbies, different perspectives and practical experience worth passing on. ExploreThe Reading RoomBooks, articles and talks worth exploring — not because the network agrees with every word, but because good material gives us something to think about. Watch & listenDifferent voicesVideos, interviews and podcasts that challenge assumptions, add context or change the angle from which you see something. CommunityThe Men’s TableReal discussion about work, money, relationships, fatherhood, health, purpose, pressure, responsibility and starting again. Make & doThe WorkshopDIY, repairs, practical skills, projects, tools and useful knowledge men often learn by doing and passing on. InterestsOff the ClockSport, cars, motorbikes, fishing, outdoors, gaming, technology and other interests that give men somewhere to connect beyond life’s problems. ExperienceField NotesThings that worked, things that did not, lessons learned and ideas somebody wishes they had understood earlier. This is a men’s space, not a space built around an enemy. Different views are welcome. Respect for men and honest discussion can sit alongside respect for women, families and people who see things differently. THREE WAYS IN Choose what you need. You can understand the community before giving us an email address. 1. CommunityApply to join The Tribe NetworkSee what membership means, how admission works and what you will be asked to agree to before applying.About joining 2. PublicExplore the networkRead public posts, books, articles and useful resources before deciding whether the private community is for you.Explore 3. Practical helpNeed practical help? Life SOSSomething happened and you need help working out what to do next. Understand where you stand first; paid preparation comes later only if you choose it.About Life SOS EXPLORE BEFORE EMAIL Useful things should not disappear down an endless feed. Books and why they may be worth exploring. Short articles and thought pieces. Useful public links, resources and different perspectives — all visible before joining. Books & ideasMaterial worth exploring, with a short reason it may be useful. Articles & postsShort public writing, newest first, with an archive as the library grows. Useful linksPublic organisations, resources and practical information worth finding again. Interest areasFatherhood, work, money, cars, fishing, books, practical skills and more. Explore the network FOUNDING MEMBERS Come in at the beginning. The first members will help shape the rooms, interests and culture of The Tribe Network. We are opening the community carefully rather than pretending we already know what every future member will want. Public applications are not yet open. The existing verification, genuine review and admission controls remain in place. About joining NEED PRACTICAL HELP? Life SOS Sometimes life stops being theoretical. A letter arrives. Something changes at work. Money becomes tight. A deadline appears. Several problems hit at once. Life SOS is the practical-help route inside The Tribe Network. Start with what happened in your own words, work out where you stand and then choose what you want to do next. Free to understand. Paid to prepare. Paid preparation is separate and only comes later if you choose it. Where another organisation, official service, specialist or urgent support route is more appropriate, Life SOS should signpost that instead. “Tell us what happened. We’ll help map the way forward.” See how Life SOS works THE TRIBE NETWORK Find your direction. Find your people. Explore first, apply when you are ready, or use Life SOS when you need practical help rather than discussion. About joiningExploreLife SOS THE TRIBE NETWORK tribe-sos.comnetwork@tribe-sos.com © The Tribe Network Explore Apply Life SOS",
@@ -423,7 +423,7 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 366.8,
+                    "fetch_ms": 351.6,
                     "html_bytes": 103559,
                     "dom_elements": 220,
                     "scripts": 0,
@@ -546,6 +546,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-09-02T21:17:53+00:00"
+        "generated_at_utc": "2026-09-02T21:32:07+00:00"
     }
 }
