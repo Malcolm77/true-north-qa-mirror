@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-02-stage1-v110-post-install-qa-002",
+  "id": "2026-09-02-stage1-audit-reset-baseline-003",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-02T18:24:36Z",
-  "expires_at_utc": "2026-09-02T21:24:36Z",
-  "note": "Post-install Stage 1 V1.1.0 safe QA. Verify landing public identity, Apply/Explore/Life SOS handoff routes, anonymous Tribe lock, protected component/snippet integrity and all risky feature flags remain off. No website mutation."
+  "issued_at_utc": "2026-09-02T20:50:00Z",
+  "expires_at_utc": "2026-09-02T23:50:00Z",
+  "note": "Reset Stage 1 workflow to audit-first. Record the current audit.truenorthsos.com front/back-door baseline before any further mutation. Verify Home, Apply, Explore, Life SOS, anonymous Tribe lock, protected components/snippets, roles, feature flags and staging protections. No website mutation."
 }
