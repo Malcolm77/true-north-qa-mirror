@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-08-31-family-beta-v110-release-audit-011",
+  "id": "2026-09-02-stage1-landing-facelift-baseline-001",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-08-31T13:41:00Z",
-  "expires_at_utc": "2026-08-31T16:41:00Z",
-  "note": "Final safe QA after Family Beta V1.1.0 install. No mutation."
+  "issued_at_utc": "2026-09-02T18:03:22Z",
+  "expires_at_utc": "2026-09-02T21:03:22Z",
+  "note": "Stage 1 landing-page facelift baseline before any mutation. No mutation. Preserve sealed components and record current public/back-door state."
 }
