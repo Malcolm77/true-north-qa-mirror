@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-02-stage1-audit-reset-baseline-003",
+  "id": "2026-09-02-stage1-v131-audit-runtime-004",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-02T20:50:00Z",
-  "expires_at_utc": "2026-09-02T23:50:00Z",
-  "note": "Reset Stage 1 workflow to audit-first. Record the current audit.truenorthsos.com front/back-door baseline before any further mutation. Verify Home, Apply, Explore, Life SOS, anonymous Tribe lock, protected components/snippets, roles, feature flags and staging protections. No website mutation."
+  "issued_at_utc": "2026-09-02T21:00:30Z",
+  "expires_at_utc": "2026-09-03T00:00:30Z",
+  "note": "Post-activation Stage 1 Exact Baseline Facelift V1.3.1 audit-only runtime QA. Verify homepage public identity and exact Stage 1 structure/copy against the 2 Sep blueprint; no public True North/by Life SOS; no Genie/guru visual; Apply, Explore and Life SOS routes healthy; anonymous Tribe/private routes remain locked; all protected components and six protected snippets remain sealed-match; tribe_applicant and tribe_member roles intact; all high-risk feature flags remain off; staging noindex remains active; no payment, external AI, public applications or private-community exposure. Diagnostics only; no website mutation."
 }
