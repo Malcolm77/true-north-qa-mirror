@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-02-stage1-v132-audit-runtime-005",
+  "id": "2026-09-02-stage1-v133-exact-release-audit-006",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-02T21:06:30Z",
-  "expires_at_utc": "2026-09-03T00:06:30Z",
-  "note": "Post-activation Stage 1 Exact Baseline Facelift V1.3.2 audit-only runtime QA under the Master Code/Plugin/Update Quality Gate and 2 Sep Stage 1 blueprint. Verify public header/site-title/footer no longer expose True North or by Life SOS; homepage identity is The Tribe Network; Stage 1 structure and routes are intact; no Genie/guru visual; Apply, Explore and Life SOS routes healthy; anonymous Tribe/private routes remain locked; all protected components and all six protected snippets sealed-match; tribe_applicant and tribe_member roles intact; all high-risk feature flags remain off; staging noindex remains active; no payment, external AI, public applications, registrations or private-community exposure. Diagnostics only; no website mutation."
+  "issued_at_utc": "2026-09-02T21:12:30Z",
+  "expires_at_utc": "2026-09-03T00:12:30Z",
+  "note": "Final post-activation V1.3.3 exact release-candidate audit under the Master Code/Plugin/Update Quality Gate and 2 Sep Stage 1 blueprint. Verify this exact binary preserves the approved old visual language while presenting The Tribe Network as the sole public identity; no public True North/by Life SOS; no Genie/guru visual; Stage 1 homepage structure/copy and Apply, Explore, Life SOS routes healthy; anonymous Tribe/private routes locked; all protected components and all six protected snippets sealed-match; tribe_applicant and tribe_member roles intact; all high-risk feature flags off; staging noindex active; no registrations, payments, external AI, public applications or private-community exposure. Diagnostics only; no website mutation."
 }
