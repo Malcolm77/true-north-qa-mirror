@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "deep_safe_qa",
-        "generated_at_utc": "2026-09-03T11:27:20+00:00",
+        "generated_at_utc": "2026-09-03T11:42:20+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "4f663f517806ac16ac8a02d2346b44afedc54d78ced14bebbb0ef96d91cb1e00"
+        "fingerprint": "45cfb756abafc3825dc64075d3ac3bef7e4d254843036faf6400afb63fae966f"
     },
     "site": {
         "name": "The Tribe Network",
@@ -375,27 +375,27 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 263
+            "response_ms": 297
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 131
+            "response_ms": 169
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 171,
+            "response_ms": 144,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 250,
-        "html_sha256": "5be3cc5fb0ff5456e9b3d3c29e57368e71556a845294e3d520e605f3edf3a8bc",
-        "html_bytes": 112249,
+        "response_ms": 311,
+        "html_sha256": "4c4068f5951cf3bf517c616c64f5cda16a821a9ca65a9a8dbf1cf772971c108d",
+        "html_bytes": 112281,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
         "newsletter_unavailable_text_detected": false,
@@ -466,9 +466,9 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "25d7721713e7cb538cf1f92a6b8a777f94f507708a1bfd89fa56d26ae6947672",
-            "home": "df6a13b0d2ee0f36ef5276b62a3c62c510393cc7b2d6fd7fe6b5f1832417863a",
-            "deep": "1f10f8ba3e50492da4eeb2bc9eab007a83a2d92900548fed659dc5bf030cb1e4"
+            "routes": "210e7354ae7b1f6fdd60719dcfdd2e6015205ce0d0c39a439a80d7c061223e39",
+            "home": "33ca3a2ae96b413006055941638c574e815ed5fe313a477e0f18107918acc4c8",
+            "deep": "0020af9abdd4ca322832ca251cfb0b01f0b3bae0ae9c2d667d47162f2b89f8fd"
         }
     },
     "privacy_exclusions": [
@@ -498,10 +498,10 @@
             "url": "https://truenorthsos.com/",
             "http_code": 200,
             "error": null,
-            "response_ms": 36,
+            "response_ms": 117,
             "quality": {
-                "html_sha256": "a6a3092cb7036b8358c9b5ffc994a73f50dff3e9675b5c9ce894e58644ee31c3",
-                "html_bytes": 1212589,
+                "html_sha256": "a99b484bd69c0bbfa8dbf5138feb00f1ac796d921e4d3ce11c1c09131dee61df",
+                "html_bytes": 1212529,
                 "raw_theme_placeholders": [],
                 "newsletter_form_detected": false,
                 "newsletter_unavailable_text_detected": false,
@@ -525,7 +525,7 @@
                 {
                     "path": "/",
                     "http_code": 200,
-                    "response_ms": 28,
+                    "response_ms": 29,
                     "error": null
                 }
             ]
@@ -534,10 +534,10 @@
             "wp_cron_disabled": false,
             "publish_scheduled": true,
             "command_poll_scheduled": true,
-            "next_publish_utc": "2026-09-03T11:33:16+00:00",
-            "next_command_poll_utc": "2026-09-03T11:28:46+00:00",
-            "last_publish_at": "2026-09-03T11:27:19+00:00",
-            "last_poll_at": "2026-09-03T10:32:06+00:00"
+            "next_publish_utc": "2026-09-03T11:48:16+00:00",
+            "next_command_poll_utc": "2026-09-03T11:43:46+00:00",
+            "last_publish_at": "2026-09-03T11:42:11+00:00",
+            "last_poll_at": "2026-09-03T11:34:19+00:00"
         }
     }
 }
