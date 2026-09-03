@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-09-03T11:42:09+00:00",
+        "generated_at_utc": "2026-09-03T11:50:20+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "9d46d1fa746e64a5c8619931e60c5520d6363d300349be410e7fb3e4b469c1bb"
+        "fingerprint": "6faa0abfc02261efe6c349bf9e6ddd8b5b1f141d3db04604f33fbff54b205816"
     },
     "site": {
         "name": "The Tribe Network",
@@ -25,6 +25,7 @@
         "Hostinger Easy Onboarding",
         "Hostinger Reach",
         "Hostinger Tools",
+        "LiteSpeed Cache",
         "True North Control Plane",
         "True North QA Reporter",
         "True North V5.1 Launch Builder",
@@ -367,27 +368,27 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 305
+            "response_ms": 831
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 155
+            "response_ms": 730
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 140,
+            "response_ms": 697,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 326,
-        "html_sha256": "4c4068f5951cf3bf517c616c64f5cda16a821a9ca65a9a8dbf1cf772971c108d",
-        "html_bytes": 112281,
+        "response_ms": 810,
+        "html_sha256": "c68c319ac3bf76aeb53bd869db22d3cd392aec341ef8dfdaf559fe77c6dfa8f4",
+        "html_bytes": 112353,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
         "newsletter_unavailable_text_detected": false,
@@ -440,12 +441,13 @@
     },
     "changes": {
         "sections_changed_since_last_published_snapshot": [
+            "components",
             "routes",
             "home"
         ],
         "section_fingerprints": {
             "site": "550226072a11fc5522f31d4f1e537f435d66730bdb8a2865c78823cae07e3286",
-            "components": "1c0c1e57de3ff3c6240fc157f4e6767bb4ece487df832628744c9f2793134a43",
+            "components": "55f860f675fc5b531012ebf94a5941497062e5b41244694b1687340f1d4ecff4",
             "source_integrity": "6b4af158315824b07f5f3942d0857c8dbff8f3d7a062cfb18e4b26a9cb7ffbd4",
             "snippet_integrity": "31f0430474596dd699dfa262837bb627bf3190b15e008229b0e8a7c822ba8993",
             "roles": "9079e87e523a2c9cd36cd5d1346b7c203a9e7e90408ff3c6d1e066cc78f7efa7",
@@ -456,8 +458,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "9425c39d680be07fec424909918bfb762adde2e023a47e76b52ff401334d4da5",
-            "home": "3c51ad322d4d8ce282b4b9c3ffb59d858d5f23e11e84292a944902beacb0ad2f"
+            "routes": "a796fd8627e011632c97890bc6c25b6aaa5bcb0115d3ebcaf4873646b1ad7f94",
+            "home": "8a85a084b3307071fddafdf9237e82a42b1bdcebc0240365eed7b70c09f47ec6"
         }
     },
     "privacy_exclusions": [
