@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-09-03T11:50:35+00:00",
+        "generated_at_utc": "2026-09-03T11:53:26+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "db40cf256031486a25b8f1e8b0075df191749067cda958bb329b2dc32dcfd314"
+        "fingerprint": "67b9e02e7ac07842c4bdfa653fee43029b5fba50a1c2039b3383740fc28cd77c"
     },
     "site": {
         "name": "The Tribe Network",
@@ -368,27 +368,27 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 309
+            "response_ms": 338
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 161
+            "response_ms": 164
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 171,
+            "response_ms": 223,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 370,
-        "html_sha256": "8dcbc6e408aabb8a8257c7a298f092f5e1ed092e7b63e924248126de776cda7a",
-        "html_bytes": 112353,
+        "response_ms": 415,
+        "html_sha256": "3165881df9d8bbbb21269df0ccb01444c243788463010db7be2729aeb73396a8",
+        "html_bytes": 112355,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
         "newsletter_unavailable_text_detected": false,
@@ -457,8 +457,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "ca3e04a582fff43e783e7a3b1f2f9a40f2550e99a28ae7c33ffffba1d636c9d7",
-            "home": "bcc505b5e5406d090b64d4e37f1faa4dc36ac5d52f3637c537878b1f713ce4c2"
+            "routes": "511535a5b15c370379792b672e16ae431835b581c7a55b9dbaf694bbafb2de68",
+            "home": "3d45427997ca64bb5fd89c4da3cdd8ef6bcec160fcee984bfd85511e421d9a93"
         }
     },
     "privacy_exclusions": [
