@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-02-stage1-v134-visual-refinement-audit-007",
+  "id": "2026-09-03-landing-v12-baseline-008",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-02T21:17:30Z",
-  "expires_at_utc": "2026-09-03T00:17:30Z",
-  "note": "Post-activation Stage 1 V1.3.4 visual-refinement audit under the Master Code/Plugin/Update Quality Gate and 2 Sep Stage 1 blueprint. Verify public identity is The Tribe Network only; no public True North/by Life SOS; no Genie/guru visual; revised hero artwork is present without broken/placeholder artefacts; page remains visually substantial rather than sparse while preserving the approved navy/gold/parchment visual language; Stage 1 structure and Apply, Explore, Life SOS routes healthy; anonymous Tribe/private routes locked; all protected components and all six protected snippets sealed-match; tribe_applicant and tribe_member roles intact; all high-risk feature flags off; staging noindex active; no registrations, payments, external AI, public applications or private-community exposure. Diagnostics only; no website mutation."
+  "issued_at_utc": "2026-09-03T10:10:00Z",
+  "expires_at_utc": "2026-09-03T13:10:00Z",
+  "note": "STRICT NO-DRIFT baseline inspection before implementing the founder-locked 00-17 landing-page specification. Diagnostics only; no mutation. Verify current audit Home, site identity, routes, anonymous/private access, protected components/snippets, roles, all high-risk feature flags, staging noindex, raw placeholders and current fingerprint. This is a baseline capture before any new landing-page candidate. Do not alter website state."
 }
