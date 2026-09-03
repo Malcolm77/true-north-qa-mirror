@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-03-landing-v12-baseline-008",
+  "id": "2026-09-03-landing-v140-postinstall-009",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-03T10:10:00Z",
-  "expires_at_utc": "2026-09-03T13:10:00Z",
-  "note": "STRICT NO-DRIFT baseline inspection before implementing the founder-locked 00-17 landing-page specification. Diagnostics only; no mutation. Verify current audit Home, site identity, routes, anonymous/private access, protected components/snippets, roles, all high-risk feature flags, staging noindex, raw placeholders and current fingerprint. This is a baseline capture before any new landing-page candidate. Do not alter website state."
+  "issued_at_utc": "2026-09-03T10:33:30Z",
+  "expires_at_utc": "2026-09-03T13:33:30Z",
+  "note": "POST-INSTALL V1.4.0 STRICT NO-DRIFT AUDIT. Diagnostics only; no mutation. Verify The Tribe Network public identity; Home HTTP 200; V1.4.0 founder-locked 00-17 landing candidate active; header/footer primary routes are Explore, Apply to join, Get support; no public True North/by Life SOS; no Genie on public Tribe landing page; new Why The Tribe Network Exists/Experience Should Travel content present; support bridge retains Sometimes life stops being theoretical and Free to understand/Paid to prepare; raw trans-* placeholders absent; Explore/Apply/Life SOS routes healthy; anonymous private Tribe route remains locked; users_can_register false; staging noindex active; protected components and all six protected snippets sealed-match; tribe_applicant and tribe_member roles intact; all high-risk feature flags off; payments/external AI/public applications remain off; Life SOS protected journey untouched. Capture fresh fingerprint."
 }
