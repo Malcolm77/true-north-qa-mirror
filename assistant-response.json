@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-09-02-stage1-v133-exact-release-audit-006",
+    "command_id": "2026-09-03-landing-v12-baseline-008",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-09-02T21:14:19+00:00",
+    "completed_at_utc": "2026-09-03T10:32:05+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "730d38ccb1fddb54b3c802bbf2ad04515005aad73c34b057d2fe61c1810c710c"
+        "fingerprint": "e98ea60ed7b66c1aa41dc40541ac5ad0696966e45f9ce0f28627989e01f38260"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
