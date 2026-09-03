@@ -1,8 +1,8 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-03-landing-v140-fresh-full-gate-010",
+  "id": "2026-09-03-landing-v140-fresh-full-gate-011",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-03T11:00:00Z",
+  "issued_at_utc": "2026-09-03T10:55:00Z",
   "expires_at_utc": "2026-09-03T14:00:00Z",
   "note": "FRESH POST-DEPLOY V1.4.0 FULL RELEASE-GATE QA under STRICT NO-DRIFT and V1 Master Code/Plugin/Update Quality Gate. Diagnostics only; no mutation. Verify current deployed AUDIT state after Malcolm installed V1.4.0. Required checks: Home HTTP 200 and fresh fingerprint; The Tribe Network public identity only; no public True North/by Life SOS; no public Genie/guru; founder-locked V1.4.0 landing candidate active; header/footer primary routes exactly Explore, Apply to join, Get support; new Why The Tribe Network Exists / Experience Should Travel content present; support bridge contains Sometimes life stops being theoretical plus Free to understand / Paid to prepare; no raw trans-* placeholders; Explore, Apply, Life SOS routes healthy; anonymous /tribe-network/ remains locked/redirected; users_can_register false; audit noindex active; protected components sealed-match; all six protected snippets sealed-match; tribe_applicant and tribe_member roles intact; all high-risk feature flags remain off; public applications, payment, external AI, open posts/comments/DM/uploads/directory/matching/events/polling/advocacy remain off; protected six-page Life SOS journey untouched; report technical gate P0/P1/holds and capture exact fresh fingerprint. This run is the controlling post-install back-door evidence for V1.4.0."}
