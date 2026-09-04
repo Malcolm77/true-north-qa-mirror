@@ -2,18 +2,18 @@
     "audit": {
         "name": "True North V3 staging self-audit",
         "plugin_version": "0.1.3",
-        "generated_at_utc": "2026-09-03T11:50:29+00:00",
+        "generated_at_utc": "2026-09-04T08:42:16+00:00",
         "host": "audit.truenorthsos.com",
         "staging_only": true,
         "scope": "Public/safe staging facts only",
-        "fingerprint": "0a3f80bac3af1668a2417dc22cc1acd0f87e6dc966e192e08a2b020e467c6439",
-        "generation_ms": 3960.8,
+        "fingerprint": "9249fc44beae93dea5bd83cb265a027c97d11751af28d449cf40d57d926dc939",
+        "generation_ms": 5084.2,
         "schema": "tnqa-compact-1",
         "purpose": "Small public-safe staging snapshot optimised for direct ChatGPT/GitHub retrieval"
     },
     "site": {
-        "name": "The Tribe Network",
-        "description": "A community of men finding direction together.",
+        "name": "True North by Life SOS",
+        "description": "The Tribe Network",
         "home_url": "https://audit.truenorthsos.com/",
         "site_url": "https://audit.truenorthsos.com/",
         "blog_public": 0,
@@ -225,12 +225,12 @@
             ],
             "inspection": {
                 "http_code": 200,
-                "fetch_ms": 358.9,
-                "html_bytes": 112353,
-                "html_sha256": "ba9cf8384d30370e8a3ed7c04ee74ee8b6a6add61fbfd76e12ca1c435e079791",
-                "visible_text_chars": 7034,
-                "visible_text_sha256": "f9d3ca1da886a7a5b557dabd5b106ac051e2bea42237cca9181a26e75f92db67",
-                "visible_text_excerpt": "The Tribe Network Skip to content The Tribe Network Skip to main content Explore Apply to join Get support MEN • COMMUNITY • DIRECTION • PRACTICAL SUPPORT THE TRIBE NETWORK A community of men finding direction together. Belong. Speak freely. Share what you know. Learn from other men. Find your direction — and practical help when you need it. A place for adult men to connect through real conversation, useful knowledge, interests, practical experience and perspectives worth exploring. Explore Apply to join Get support One community. Useful knowledge. Real interests. Practical help when discussion is not enough. THETRIBENETWORK BelongSpeak freelyShare what you knowLearn from other men WHY THE TRIBE NETWORK EXISTS Experience should travel. Every generation of men faces its own challenges. For much of human life, experience travelled between men — through fathers, brothers, friends, mentors and older men who had already walked part of the road. The Tribe Network exists to rebuild some of that connection in a modern, organised place. A place to speak openly, think independently and become more capable in the lives we lead. Share experience. Learn from different perspectives. Explore useful ideas. Pass on practical knowledge. Ask for help when you need it. Not a hive mind. Not one man’s answer. A community of men finding direction together. 01ExploreIdeas, resources, interests and useful public material. 02Apply to joinSee what membership means and choose whether to apply. 03Get supportWhen discussion is not enough and you need practical help. THE TRIBE IN MOTION Ideas to return to. A changing glimpse of how the network thinks, learns and talks. PrincipleNo single book. No single philosophy. No final answer.Explore it. Question it. Compare it. Decide what is useful. Independent thoughtThink for yourself.Step outside the noise. Better questions create better judgement. Community cultureSpeak freely. Challenge honestly. Respect the tribe.Honest disagreement can make the room stronger. Community cultureChallenge the idea. Respect the man. Protect the room.Different views are welcome. Destructive behaviour is not the price of honesty. BoundaryMen’s issues do not require an enemy.A men’s community can be confident about men without being hostile to anybody else. PerspectiveCuriosity before ideology.Difficult subjects deserve intelligent conversation, not compulsory agreement. ExperienceExperience should travel.Men should be able to learn from men who have already walked part of the road. Personal growthStrength doesn’t mean emotionless.Sometimes strength is acting. Sometimes waiting. Sometimes asking for help. Intergenerational learningNot everybody knows everything. Everybody may know something worth passing on.Experience is perspective, not unquestionable authority. Founder philosophyBuilt from curiosity, not certainty.The aim is not to build another ideology. Community valueDiscover. Discuss. Contribute. Return.A useful community gives men reasons to come back. StandingCommunity standing is earned, not bought.Useful contribution and judgement matter more than status for sale. Resource integrityCommunity-shared does not mean automatically endorsed.Useful material can be explored without treating every source as doctrine. The Reading RoomBooks, articles and talks worth exploring.Good material gives men something to think about, even when they disagree with parts of it. Different VoicesChange the angle.Videos, interviews and podcasts can add context or challenge an assumption. The Men’s TableReal conversation about real life.Work, money, relationships, fatherhood, health, pressure, purpose and starting again. The WorkshopUseful knowledge is often learned by doing.DIY, repairs, practical skills, tools, projects and experience worth passing on. Off the ClockMen are more than their problems.Sport, cars, motorbikes, fishing, outdoors, gaming, technology and the things we simply enjoy. Field NotesLessons learned the hard way should not disappear.What worked, what did not and what somebody wishes they had understood earlier. ‹ 1 / 19 › Pause WHAT YOU’LL FIND INSIDE Conversation, interests and practical knowledge. The network should grow from genuine member demand. These are some of the places men may find common ground. 01Fatherhood & relationships 02Work & money 03Men’s health & wellbeing 04Books, ideas & culture 05Cars, DIY & practical skills 06Sport, fishing, outdoors & interests Community standing is earned, not bought. The fuller set of rooms and interests belongs inside the network rather than turning Home into a catalogue. Explore the network THE KNOWLEDGE SHELF A changing taste of the library. Books and resources are here to provoke thought, not demand agreement. A place to discover something useful, question it and decide what belongs in your own thinking. BOOKROBERT GREENE The 33 Strategies of War “prudence, agility, balance, and calm” Short promotional wording verified from Penguin Random House. Why explore it: A perspective on strategy, conflict, preparation, timing and choosing which battles are actually worth fighting. Publisher source ↗ BOOKROBERT GREENE The 48 Laws of Power “gaining, observing, or defending against ultimate control” Short promotional wording verified from Penguin Random House. Why explore it: A diagnostic look at power, incentives, reputation, leverage and manipulation — useful for recognising dynamics without endorsing them. Publisher source ↗ ‹ 1 / 2 › Pause Curiosity, not endorsement. A resource appearing here does not mean The Tribe Network agrees with every view in it. Explore more FOUNDING MEMBERS Come in at the beginning. The first members will help shape the rooms, interests, conversations and culture of The Tribe Network. The aim is to grow from genuine member demand rather than pretend we already know what every future member will want. You can help shape something worth returning to. Apply to join WHEN IDEAS AREN’T ENOUGH Sometimes life stops being theoretical. A letter arrives. A relationship breaks down. Something changes at work. Money becomes tight. A deadline appears. Several problems hit at once. The Tribe Network gives you community, knowledge, interests and shared experience. Sometimes discussion is not enough. When you need practical help working out what happened, where you stand and what to do next, choose Get Support. Inside that route, Life SOS is the structured practical-help engine. Free to understand. Paid to prepare. Understanding the problem and the likely route forward should provide genuine value. Paid preparation comes later only if you choose deeper help. “Tell us what happened. We’ll help map the way forward.” Get support THE TRIBE NETWORK Find your direction. Find your people. Help build something worth returning to. Explore first. Apply when you are ready. Get practical support when discussion is not enough. Explore Apply to join Get support Explore Apply to join Get support tribe-sos.comnetwork@tribe-sos.com © The Tribe Network Explore Apply Life SOS",
+                "fetch_ms": 293,
+                "html_bytes": 137276,
+                "html_sha256": "6962a6c83671472ebeec84776d3db437f0939d0042616fd0e66c3a181f290f0d",
+                "visible_text_chars": 16679,
+                "visible_text_sha256": "3d515cf1b0c289983cf2a70df0c4d2b8ab61cfb4b05071e654481c8de541ba04",
+                "visible_text_excerpt": "The Tribe Network Skip to content The Tribe Network Skip to main content Explore Apply to join Get support MEN • COMMUNITY • DIRECTION • PRACTICAL SUPPORT THE TRIBE NETWORK A community of men finding direction together. Belong. Speak freely. Share what you know. Learn from other men. Find your direction — and practical help when you need it. A place for adult men to connect through real conversation, useful knowledge, interests, practical experience and perspectives worth exploring. Explore Apply to join Get support One community. Useful knowledge. Real interests. Practical help when discussion is not enough. THETRIBENETWORK BelongSpeak freelyShare what you knowLearn from other men WHY THE TRIBE NETWORK EXISTS Experience should travel. Every generation of men faces its own challenges. For much of human life, experience travelled between men — through fathers, brothers, friends, mentors and older men who had already walked part of the road. The Tribe Network exists to rebuild some of that connection in a modern, organised place. A place to speak openly, think independently and become more capable in the lives we lead. Share experience. Learn from different perspectives. Explore useful ideas. Pass on practical knowledge. Ask for help when you need it. Not a hive mind. Not one man’s answer. A community of men finding direction together. THE TRIBE IN MOTION Ideas to return to. A changing glimpse of how the network thinks, learns and talks. PrincipleNo single book. No single philosophy. No final answer.Explore it. Question it. Compare it. Decide what is useful. Independent thoughtThink for yourself.Step outside the noise. Better questions create better judgement. Community cultureSpeak freely. Challenge honestly. Respect the tribe.Honest disagreement can make the room stronger. Community cultureChallenge the idea. Respect the man. Protect the room.Different views are welcome. Destructive behaviour is not the price of honesty. BoundaryMen’s issues do not require an enemy.A men’s community can be confident about men without being hostile to anybody else. PerspectiveCuriosity before ideology.Difficult subjects deserve intelligent conversation, not compulsory agreement. ExperienceExperience should travel.Men should be able to learn from men who have already walked part of the road. Personal growthStrength doesn’t mean emotionless.Sometimes strength is acting. Sometimes waiting. Sometimes asking for help. Intergenerational learningNot everybody knows everything. Everybody may know something worth passing on.Experience is perspective, not unquestionable authority. Founder philosophyBuilt from curiosity, not certainty.The aim is not to build another ideology. Community valueDiscover. Discuss. Contribute. Return.A useful community gives men reasons to come back. StandingCommunity standing is earned, not bought.Useful contribution and judgement matter more than status for sale. Resource integrityCommunity-shared does not mean automatically endorsed.Useful material can be explored without treating every source as doctrine. The Reading RoomBooks, articles and talks worth exploring.Good material gives men something to think about, even when they disagree with parts of it. Different VoicesChange the angle.Videos, interviews and podcasts can add context or challenge an assumption. The Men’s TableReal conversation about real life.Work, money, relationships, fatherhood, health, pressure, purpose and starting again. The WorkshopUseful knowledge is often learned by doing.DIY, repairs, practical skills, tools, projects and experience worth passing on. Off the ClockMen are more than their problems.Sport, cars, motorbikes, fishing, outdoors, gaming, technology and the things we simply enjoy. Field NotesLessons learned the hard way should not disappear.What worked, what did not and what somebody wishes they had understood earlier. ‹ 1 / 19 Pause › WHAT YOU’LL FIND INSIDE Conversation, interests and practical knowledge. The network should grow from genuine member demand. These are some of the places men may find common ground. 01Fatherhood & relationships 02Work & money 03Men’s health & wellbeing 04Books, ideas & culture 05Cars, DIY & practical skills 06Sport, fishing, outdoors & interests Community standing is earned, not bought. The fuller set of rooms and interests belongs inside the network rather than turning Home into a catalogue. Explore the network THE KNOWLEDGE SHELF A changing taste of the library. Books and resources are here to provoke thought, not demand agreement. A place to discover something useful, question it and decide what belongs in your own thinking. BOOKROBERT GREENE The 33 Strategies of War Understand the terrain, control the pace, choose battles carefully, keep the initiative where useful, and avoid reactive or unwinnable moves. Why explore it: A strong framework for thinking about conflict, timing, initiative, positioning, defence, negotiation and when not to fight. StrategySource ↗ BOOKROBERT GREENE The 48 Laws of Power Power often works indirectly. Before reacting, understand incentives, status, reputation, timing, leverage and possible manipulation. Why explore it: Useful as a map of power dynamics, status, reputation, incentives, influence and manipulation, especially for recognising what other people may be doing rather than copying every law. Human behaviourSource ↗ AUDIOBOOKNICCOLÒ MACHIAVELLI & SUN TZU The Prince & The Art of War: The Definitive Collection on Statecraft and Military Tactics Look beneath appearances. Understand motives, incentives, power, reputation and the terrain before deciding how to act. Why explore it: A useful historical lens on power, statecraft, competition and human motives. StrategySource ↗ AUDIOBOOKALAN WATTS Out of Your Mind: Essential Listening from the Alan Watts Audio Archives Sometimes clarity comes from changing the frame: question the assumptions occupying your attention and look at the situation from another angle. Why explore it: A perspective-shifting way to examine assumptions and look at familiar problems from another angle. PerspectiveSource ↗ AUDIOBOOKARNOLD SCHWARZENEGGER Be Useful: Seven Tools for Life Progress usually requires useful action, sustained effort and resilience rather than waiting for ideal conditions. Why explore it: Its emphasis on hard work, grit, reinvention, clear thinking and continuing to move when circumstances are difficult. DisciplineSource ↗ AUDIOBOOKPAUL MCGEE How Not to Worry: The Remarkable Truth of How a Small Change Can Help You Stress Less and Enjoy Life More When worry is consuming attention, useful tools can help separate the problem itself from the thinking that is amplifying it. Why explore it: Worry, stress and anxiety can affect anyone, especially in a crisis. StressSource ↗ AUDIOBOOKROBIN BAKER Sperm Wars: Infidelity, Sexual Conflict, and Other Bedroom Battles Biological and evolutionary explanations can be one lens on behaviour, but they should be tested against the individual facts rather than used as a complete explanation of a person. Why explore it: It offered a provocative evolutionary-biology lens on sexual and relationship behaviour and gave me another angle from which to reflect after relationship breakdown. Human behaviourSource ↗ AUDIOBOOKTHOMAS ERIKSON Surrounded by Idiots: The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood) Before reacting to someone's style, consider whether the friction may come from different communication patterns, priorities or ways of processing. Why explore it: A simple way to think about interpersonal differences, communication friction and why people can interpret the same situation very differently. CommunicationSource ↗ AUDIOBOOKDAVID M. BUSS, PHD When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment, and Assault A strong resource bank should compare competing perspectives rather than treating agreement with one author as the goal. Why explore it: My collection should ",
                 "meta": {
                     "title": "The Tribe Network",
                     "description": "",
@@ -267,6 +267,106 @@
                     {
                         "level": 3,
                         "text": "The 48 Laws of Power"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Prince & The Art of War: The Definitive Collection on Statecraft and Military Tactics"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Out of Your Mind: Essential Listening from the Alan Watts Audio Archives"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Be Useful: Seven Tools for Life"
+                    },
+                    {
+                        "level": 3,
+                        "text": "How Not to Worry: The Remarkable Truth of How a Small Change Can Help You Stress Less and Enjoy Life More"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Sperm Wars: Infidelity, Sexual Conflict, and Other Bedroom Battles"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Surrounded by Idiots: The Four Types of Human Behaviour (or, How to Understand Those Who Cannot Be Understood)"
+                    },
+                    {
+                        "level": 3,
+                        "text": "When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment, and Assault"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Complete Book of Five Rings"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph"
+                    },
+                    {
+                        "level": 3,
+                        "text": "In Pursuit of Stoicism: The Inner Peace: How to Boost Your Mental Toughness and Achieve Emotional Resilience in This Modern Age"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Live Like a Stoic: 52 Exercises for Cultivating a Good Life"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Laws of Human Nature"
+                    },
+                    {
+                        "level": 3,
+                        "text": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Art of War"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Eliminate Negative Thinking: How to Overcome Negativity, Control Your Thoughts, and Stop Overthinking. Shift Your Focus into Positive Thinking, Self-Acceptance, and Radical Self Love"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Rational Male – Preventive Medicine"
+                    },
+                    {
+                        "level": 3,
+                        "text": "NLP: The Essential Guide to Neuro-Linguistic Programming"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Rational Male"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Unplugged Alpha: The No BS Guide to Winning With Women & Life"
+                    },
+                    {
+                        "level": 3,
+                        "text": "Mode One: Let the Women Know What You're REALLY Thinking"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire"
+                    },
+                    {
+                        "level": 3,
+                        "text": "The Day That Turns Your Life Around"
+                    },
+                    {
+                        "level": 3,
+                        "text": "George Carlin — Stand-Up & Social Commentary"
+                    },
+                    {
+                        "level": 3,
+                        "text": "No single book or philosophy has all the answers"
                     },
                     {
                         "level": 2,
@@ -333,33 +433,138 @@
                         "internal": true
                     },
                     {
-                        "text": "01ExploreIdeas, resources, interests and useful public material.",
-                        "href": "https://audit.truenorthsos.com/explore/",
-                        "internal": true
-                    },
-                    {
-                        "text": "02Apply to joinSee what membership means and choose whether to apply.",
-                        "href": "https://audit.truenorthsos.com/apply/",
-                        "internal": true
-                    },
-                    {
-                        "text": "03Get supportWhen discussion is not enough and you need practical help.",
-                        "href": "https://audit.truenorthsos.com/life-sos/",
-                        "internal": true
-                    },
-                    {
                         "text": "Explore the network",
                         "href": "https://audit.truenorthsos.com/explore/",
                         "internal": true
                     },
                     {
-                        "text": "Publisher source ↗",
+                        "text": "Source ↗",
                         "href": "https://www.penguinrandomhouse.com/books/291190/the-33-strategies-of-war-by-robert-greene/",
                         "internal": false
                     },
                     {
-                        "text": "Publisher source ↗",
-                        "href": "https://www.penguinrandomhouse.com/books/330912/the-48-laws-of-power-by-robert-greene/",
+                        "text": "Source ↗",
+                        "href": "https://www.penguinrandomhouse.com/books/330912/the-48-laws-of-power-by-robert-greene/9781101042458/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.audible.co.uk/pd/The-Prince-The-Art-of-War-The-Definitive-Collection-on-Statecraft-and-Military-Tactics-Audiobook/B0GQW2LFFJ",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.audible.co.uk/pd/Out-of-Your-Mind-Audiobook/B0161LXF3U",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.penguin.co.uk/books/457032/be-useful-by-schwarzenegger-arnold/9781529146554",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.audible.co.uk/pd/How-Not-to-Worry-Audiobook/B00BQZMYOS",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.hachettebookgroup.com/titles/robin-baker/sperm-wars/9781541675421/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.penguin.co.uk/books/438783/surrounded-by-idiots-by-thomas-erikson/9781785042188",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.hachettebookgroup.com/titles/david-buss-phd/when-men-behave-badly/9780316419352/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.audible.co.uk/pd/The-Complete-Book-of-Five-Rings-Audiobook/B00NLNWEC0",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.audible.co.uk/author/Ryan-Holiday/B007LUHFH8",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://play.google.com/store/audiobooks/details/In_Pursuit_of_Stoicism_The_Inner_Peace_How_to_Boos?hl=en_US&id=AQAAAECqkBTQrM",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.penguinrandomhouse.com/books/673666/the-daily-laws-by-robert-greene/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.audible.co.uk/pd/Live-Like-a-Stoic-Audiobook/B07KRFX88F",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.hachette.co.uk/titles/robert-greene/the-laws-of-human-nature/9781782835578/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://us.macmillan.com/books/9781250196637/howtothinklikearomanemperor/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.penguin.co.uk/books/175567/the-art-of-war-by-sun-tzu/9780143105756",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://books.apple.com/gb/audiobook/eliminate-negative-thinking-how-to-overcome-negativity/id1516032048",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://therationalmale.com/2015/03/09/the-rational-male-preventive-medicine/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.audible.co.uk/pd/NLP-The-Essential-Guide-to-Neuro-Linguistic-Programming-Audiobook/B078T35FZD",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://therationalmale.com/2013/09/30/the-rational-male/",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://richcooper.gumroad.com/l/IsNZI",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://play.google.com/store/books/details/Alan_Roger_Currie_Mode_One?id=hEiuCwAAQBAJ",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://books.google.com/books/about/The_Way_of_the_Superior_Man.html?id=aIhVPgAACAAJ",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://www.nightingale.com/products/the-day-that-turns-your-life-around",
+                        "internal": false
+                    },
+                    {
+                        "text": "Source ↗",
+                        "href": "https://georgecarlin.com/",
                         "internal": false
                     },
                     {
@@ -408,6 +613,26 @@
                         "internal": true
                     },
                     {
+                        "text": "Community standards",
+                        "href": "https://audit.truenorthsos.com/apply/#how-the-room-works",
+                        "internal": true
+                    },
+                    {
+                        "text": "Membership info",
+                        "href": "https://audit.truenorthsos.com/apply/#membership-info",
+                        "internal": true
+                    },
+                    {
+                        "text": "Privacy",
+                        "href": "https://audit.truenorthsos.com/apply/#privacy",
+                        "internal": true
+                    },
+                    {
+                        "text": "Terms",
+                        "href": "https://audit.truenorthsos.com/apply/#terms",
+                        "internal": true
+                    },
+                    {
                         "text": "Explore",
                         "href": "https://audit.truenorthsos.com/#life-sos-explore",
                         "internal": true
@@ -433,13 +658,13 @@
                     }
                 },
                 "performance_basics": {
-                    "fetch_ms": 358.9,
-                    "html_bytes": 112353,
-                    "dom_elements": 327,
+                    "fetch_ms": 293,
+                    "html_bytes": 137276,
+                    "dom_elements": 598,
                     "scripts": 0,
                     "stylesheets": 3,
                     "images": 3,
-                    "links": 28,
+                    "links": 53,
                     "forms": 0
                 },
                 "image_metrics": {
@@ -505,19 +730,19 @@
         {
             "id": "V3-GOV-001",
             "label": "Community Standards are linked or named publicly",
-            "status": "MISSING",
+            "status": "PASS",
             "evidence": ""
         },
         {
             "id": "V3-GOV-002",
             "label": "Privacy is linked or named publicly",
-            "status": "MISSING",
+            "status": "PASS",
             "evidence": ""
         },
         {
             "id": "V3-GOV-003",
             "label": "Terms are linked or named publicly",
-            "status": "MISSING",
+            "status": "PASS",
             "evidence": ""
         },
         {
@@ -556,6 +781,6 @@
         "public_safe": true,
         "large_payloads_removed": true,
         "image_sources_removed": true,
-        "generated_at_utc": "2026-09-03T11:50:30+00:00"
+        "generated_at_utc": "2026-09-04T08:42:17+00:00"
     }
 }
