@@ -1,10 +1,14 @@
 {
-    "command_id": "2026-09-03-landing-v143-final-exact-gate-013",
+    "command_id": "2026-09-04-landing-v151-postdeploy-full-audit-014",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-09-04T08:49:38+00:00",
-    "ok": false,
-    "status": "rejected_command_too_old",
-    "result": [],
+    "completed_at_utc": "2026-09-04T08:54:41+00:00",
+    "ok": true,
+    "status": "completed",
+    "result": {
+        "ok": true,
+        "http_code": 200,
+        "fingerprint": "bd65793eb0c50c3a979420c04b2195faf15a3f9ed44fffcf668eb500e93056b0"
+    },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
 }
