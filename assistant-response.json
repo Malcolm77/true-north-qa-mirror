@@ -1,13 +1,13 @@
 {
-    "command_id": "2026-09-04-landing-v151-postdeploy-full-audit-014",
+    "command_id": "2026-09-04-full-site-soft-launch-audit-015",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-09-04T08:54:41+00:00",
+    "completed_at_utc": "2026-09-04T12:02:06+00:00",
     "ok": true,
     "status": "completed",
     "result": {
         "ok": true,
         "http_code": 200,
-        "fingerprint": "bd65793eb0c50c3a979420c04b2195faf15a3f9ed44fffcf668eb500e93056b0"
+        "fingerprint": "b96807674778a69094ed179cff51a7eb493b28da03bdaf1aca58627e1292f0e9"
     },
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
