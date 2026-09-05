@@ -1,8 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-04-full-site-soft-launch-audit-015",
+  "id": "2026-09-05-landing-153-baseline-1021",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-04T10:18:00Z",
-  "expires_at_utc": "2026-09-04T14:00:00Z",
-  "note": "FULL CURRENT-WEBSITE FRONT-DOOR AND BACK-DOOR SOFT-LAUNCH AUDIT. Diagnostics only. Do not mutate content, plugins, roles, governance, payments, AI, feature flags or production. Detect and report the exact active landing-page build rather than assuming V1.5.1 or V1.5.2. FRONT DOOR: audit Home, Explore, Apply to join and Get support; HTTP/status/redirect integrity; public The Tribe Network identity; exactly three principal routes in header, hero, closing CTA and footer; hero artwork state; sections 00-17 and new 01A; visual-content markers; both rotating systems and controls; 27 approved Knowledge Shelf resource records; support bridge; footer/legal pointers; no old public True North by Life SOS, public Genie, raw trans-* placeholders, newsletter form, empty links, missing alt text, unlabelled buttons or multiple H1s; staging noindex; responsive/accessibility markers; production untouched. BACK DOOR: anonymous Tribe lock; protected Life SOS six-page journey; tribe_applicant and tribe_member roles; six protected snippets active/sealed; protected components active/sealed; public registration off; all dangerous/high-exposure feature flags off; public applications, payments and external AI off; transactional email evidence; operations/admin readiness; governance document state; cron/autopilot health; cache state; commercial tunnels inactive; privacy exclusions; no production cutover. Return exact fingerprint, P0/P1/P2/HOLD register, known limitations, completed items, outstanding items and the ordered actions still required for controlled soft launch. This audit must be suitable to produce the founder's consolidated soft-launch work list before any further visual changes."}
+  "issued_at_utc": "2026-09-05T10:21:00Z",
+  "expires_at_utc": "2026-09-05T17:21:00Z",
+  "note": "Refresh existing safe staging diagnostics before the controlled landing update. Diagnostic operations only. Do not change content, plugins, users, roles, admission, protected snippets, payments, AI, feature flags or production. Report the actually installed landing build, current component/snippet integrity, access and registration boundaries, protected Life SOS marker, feature states, governance draft holds, cron health and check timestamps. This is baseline evidence only and must not be labelled a pass for the uninstalled 1.5.3 build. No private content or credentials in public output."
+}
