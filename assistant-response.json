@@ -1,14 +1,10 @@
 {
     "command_id": "2026-09-05-landing-153-baseline-1021",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-09-05T11:15:31+00:00",
-    "ok": true,
-    "status": "completed",
-    "result": {
-        "ok": true,
-        "http_code": 200,
-        "fingerprint": "7b433f9e7ef5e7026dc6b4468614272eac2b3a2db2b7d9a043b93f3956d84755"
-    },
+    "completed_at_utc": "2026-09-05T18:51:56+00:00",
+    "ok": false,
+    "status": "rejected_command_too_old",
+    "result": [],
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
 }
