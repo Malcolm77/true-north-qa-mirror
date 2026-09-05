@@ -1,10 +1,10 @@
 {
     "schema": "ttn-landing-public-audit-3",
     "public_safe": true,
-    "generated_at_utc": "2026-09-05T13:04:57+00:00",
-    "installed_build": "1.5.5",
-    "reported_build": "1.5.5",
-    "build_fingerprint": "fe223314335d76cb91fbe04c6279e0759615aab546a25ba5b3678c9c8191daf5",
+    "generated_at_utc": "2026-09-05T13:10:28+00:00",
+    "installed_build": "1.5.6",
+    "reported_build": "1.5.6",
+    "build_fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
     "report_matches_installed_build": true,
     "status": "SERVER_CHECKS_FAILED",
     "production_authorised": false,
@@ -16,16 +16,12 @@
         "complete_back_door": "EXTERNAL_VERIFICATION_REQUIRED"
     },
     "check_counts": {
-        "total": 98,
-        "passed": 90,
-        "failed": 8
+        "total": 99,
+        "passed": 95,
+        "failed": 4
     },
     "failed_checks": [
-        "apply_200",
-        "apply_two_footer_actions",
-        "apply_urgent_component_present",
         "home_legacy_mobile_dock_absent",
-        "joining_email_exact",
         "served_asset_tribe-logopng_exact",
         "served_asset_tribe-compasspng_exact",
         "life_sos_engine_marker"
@@ -33,33 +29,33 @@
     "route_checks": {
         "home": {
             "http_code": 200,
-            "sha256": "dfff1da575212adcbfb215a0d80da7f16cff9a5c1e8270db0e0a2297423cceaa",
-            "fingerprint": "fe223314335d76cb91fbe04c6279e0759615aab546a25ba5b3678c9c8191daf5",
-            "build": "1.5.5"
+            "sha256": "2e93289186071622570a71f332ecacb5d3e5384682ca3e249d83fdabe02d391b",
+            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
+            "build": "1.5.6"
         },
         "apply": {
-            "http_code": 500,
-            "sha256": "2143229174f1949b9346b1b7a7fdf719ad6fbac5a84d9f828c1e00b0aca5f857",
-            "fingerprint": "fe223314335d76cb91fbe04c6279e0759615aab546a25ba5b3678c9c8191daf5",
-            "build": "1.5.5"
+            "http_code": 200,
+            "sha256": "fa612d9763e4207c718c2d2ca833b0b007a439f4fd0c09c71cffb33a8b0d02db",
+            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
+            "build": "1.5.6"
         },
         "life": {
             "http_code": 200,
-            "sha256": "d45c2aad160e333b84924390cf1a4b98b3fdd2df4b72fd70c5a5fa41cf4ab50d",
-            "fingerprint": "fe223314335d76cb91fbe04c6279e0759615aab546a25ba5b3678c9c8191daf5",
-            "build": "1.5.5"
+            "sha256": "376fdfd8f58b081bcb3fe466c100a893b916225e3a3ae9b2f4648b12242c9949",
+            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
+            "build": "1.5.6"
         },
         "why": {
             "http_code": 200,
-            "sha256": "151675a0c1df07e4a444dc8c34799f1ccb73765dff3ac195327209831bc3e820",
-            "fingerprint": "fe223314335d76cb91fbe04c6279e0759615aab546a25ba5b3678c9c8191daf5",
-            "build": "1.5.5"
+            "sha256": "7191c5003ce23e05c8765108d07148fe6cc7f983c94e6d50245c2bf375c13b28",
+            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
+            "build": "1.5.6"
         },
         "explore": {
             "http_code": 410,
-            "sha256": "a0724efded828448a17b4733aec1a11639a42009754a9e076539f2b72d1ddf9c",
-            "fingerprint": "fe223314335d76cb91fbe04c6279e0759615aab546a25ba5b3678c9c8191daf5",
-            "build": "1.5.5"
+            "sha256": "44f9df342c685597cc6555909ee3e49540fb840a0a185eba7ecb3e4c8b325eab",
+            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
+            "build": "1.5.6"
         },
         "engine": {
             "http_code": 200,
@@ -94,6 +90,6 @@
     ],
     "mirror": {
         "source": "landing_plugin_public_summary",
-        "mirrored_at_utc": "2026-09-05T13:04:57+00:00"
+        "mirrored_at_utc": "2026-09-05T13:10:28+00:00"
     }
 }
