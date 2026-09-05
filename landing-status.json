@@ -1,0 +1,93 @@
+{
+    "schema": "ttn-landing-public-audit-3",
+    "public_safe": true,
+    "generated_at_utc": "2026-09-05T11:49:29+00:00",
+    "installed_build": "1.5.4",
+    "reported_build": "1.5.4",
+    "build_fingerprint": "71b5abfc72df11aa7505bd3de61ee199e013e3ef358912ba3d0caaa8ce1df1ec",
+    "report_matches_installed_build": true,
+    "status": "SERVER_CHECKS_FAILED",
+    "production_authorised": false,
+    "technical_completion": false,
+    "gates": {
+        "server_front_door": false,
+        "server_back_door": false,
+        "complete_front_door": "EXTERNAL_VERIFICATION_REQUIRED",
+        "complete_back_door": "EXTERNAL_VERIFICATION_REQUIRED"
+    },
+    "check_counts": {
+        "total": 91,
+        "passed": 87,
+        "failed": 4
+    },
+    "failed_checks": [
+        "home_legacy_mobile_dock_absent",
+        "served_asset_tribe-logopng_exact",
+        "served_asset_tribe-compasspng_exact",
+        "life_sos_engine_marker"
+    ],
+    "route_checks": {
+        "home": {
+            "http_code": 200,
+            "sha256": "524c686cf5a3fe6a048cfd84217be570e94ad409158d5af3b9ad31253e60839c",
+            "fingerprint": "71b5abfc72df11aa7505bd3de61ee199e013e3ef358912ba3d0caaa8ce1df1ec",
+            "build": "1.5.4"
+        },
+        "apply": {
+            "http_code": 200,
+            "sha256": "faf4946a521667cc1274d870886c7e518d6147ce393e1606a9eb265a7213e871",
+            "fingerprint": "71b5abfc72df11aa7505bd3de61ee199e013e3ef358912ba3d0caaa8ce1df1ec",
+            "build": "1.5.4"
+        },
+        "life": {
+            "http_code": 200,
+            "sha256": "99afd6c9b35ff4576001a117cb5784206cfa33e1a55840d978c2c6bf51a311e8",
+            "fingerprint": "71b5abfc72df11aa7505bd3de61ee199e013e3ef358912ba3d0caaa8ce1df1ec",
+            "build": "1.5.4"
+        },
+        "why": {
+            "http_code": 200,
+            "sha256": "5a17e46d4498d731f690fbf91af57420ba570d94f395fcd1da4acfdd3fd725ae",
+            "fingerprint": "71b5abfc72df11aa7505bd3de61ee199e013e3ef358912ba3d0caaa8ce1df1ec",
+            "build": "1.5.4"
+        },
+        "explore": {
+            "http_code": 410,
+            "sha256": "53e2ae20bcf97d0ca3067274222414e5c0c748186a77e1df222c60d233563de0",
+            "fingerprint": "71b5abfc72df11aa7505bd3de61ee199e013e3ef358912ba3d0caaa8ce1df1ec",
+            "build": "1.5.4"
+        },
+        "engine": {
+            "http_code": 200,
+            "sha256": "2e5926af7e839f70a0b2888b8668ff7a443551d48a42f63e7b42dcf4160ff086",
+            "fingerprint": null,
+            "build": null
+        }
+    },
+    "role_capability_fingerprints": {
+        "tribe_applicant": "3ed25de16ca345b2d8058b937d5d709e05a1e439932c42f1900eeaa20c0af0fe",
+        "tribe_member": "3ed25de16ca345b2d8058b937d5d709e05a1e439932c42f1900eeaa20c0af0fe"
+    },
+    "urgent_component": {
+        "available": true,
+        "reason": "reused_sealed_life_sos_signposting"
+    },
+    "required_external_verification": [
+        "installed_browser_autoplay_controls_and_links",
+        "installed_mobile_widths_and_zoom",
+        "real_device_touch_and_reading",
+        "authorised_member_view",
+        "role_capability_before_after_comparison",
+        "safe_rollback_verification"
+    ],
+    "governance_holds": [
+        "Constitution or Membership Rules",
+        "Community Standards",
+        "Membership & Community Terms",
+        "Privacy Policy"
+    ],
+    "mirror": {
+        "source": "landing_plugin_public_summary",
+        "mirrored_at_utc": "2026-09-05T11:49:29+00:00"
+    }
+}
