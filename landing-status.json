@@ -1,7 +1,7 @@
 {
     "schema": "ttn-landing-public-audit-3",
     "public_safe": true,
-    "generated_at_utc": "2026-09-05T13:13:40+00:00",
+    "generated_at_utc": "2026-09-05T13:21:44+00:00",
     "installed_build": "1.5.6",
     "reported_build": "1.5.6",
     "build_fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
@@ -29,31 +29,31 @@
     "route_checks": {
         "home": {
             "http_code": 200,
-            "sha256": "9d6f69e290e86a9045fd1c1963355d0f721f90cbd4ecbd65f7b0b8e47dd72465",
+            "sha256": "83542c4daaa723efab5631980720dab34c12da5939111ed25f237c6cf6520c97",
             "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
             "build": "1.5.6"
         },
         "apply": {
             "http_code": 200,
-            "sha256": "ab1e1739f3c94cd219c9e959fe0af96095d5872da970046b63240517e93ab084",
+            "sha256": "11fb001eaf1513e4febbb6b17ce3958bf3248b5f395375ead83c17c213182cd2",
             "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
             "build": "1.5.6"
         },
         "life": {
             "http_code": 200,
-            "sha256": "efb0c115a599d9d2c758190c5793ad76dfce52a5044a636687c75bc252b49ce6",
+            "sha256": "133a51097f6798b3e08b855e9902c738260fbf949356af7aba6e56f288284b36",
             "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
             "build": "1.5.6"
         },
         "why": {
             "http_code": 200,
-            "sha256": "906562d5aab3d94235d7c7a26858f70b6196998d67cd72a0edcec4e9a081d6ca",
+            "sha256": "b5a4a836fe6c9c89a5f1a965e71c46dea1290f51f179832926880659782a70bf",
             "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
             "build": "1.5.6"
         },
         "explore": {
             "http_code": 410,
-            "sha256": "c48091fc841bac7c366217f5e228a79b4cc4966bd4b1810b1f862f58198c3b0e",
+            "sha256": "e690c298eb90b1a6a18a29f3d05bbfec3300e4a77c9be94ac3008d10760d56e0",
             "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
             "build": "1.5.6"
         },
@@ -90,6 +90,6 @@
     ],
     "mirror": {
         "source": "landing_plugin_public_summary",
-        "mirrored_at_utc": "2026-09-05T13:13:40+00:00"
+        "mirrored_at_utc": "2026-09-05T13:21:44+00:00"
     }
 }
