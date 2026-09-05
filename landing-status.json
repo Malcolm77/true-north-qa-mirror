@@ -1,10 +1,10 @@
 {
     "schema": "ttn-landing-public-audit-3",
     "public_safe": true,
-    "generated_at_utc": "2026-09-05T13:21:44+00:00",
-    "installed_build": "1.5.6",
-    "reported_build": "1.5.6",
-    "build_fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
+    "generated_at_utc": "2026-09-05T13:40:54+00:00",
+    "installed_build": "1.5.7",
+    "reported_build": "1.5.7",
+    "build_fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
     "report_matches_installed_build": true,
     "status": "SERVER_CHECKS_FAILED",
     "production_authorised": false,
@@ -16,8 +16,8 @@
         "complete_back_door": "EXTERNAL_VERIFICATION_REQUIRED"
     },
     "check_counts": {
-        "total": 99,
-        "passed": 95,
+        "total": 116,
+        "passed": 112,
         "failed": 4
     },
     "failed_checks": [
@@ -29,39 +29,45 @@
     "route_checks": {
         "home": {
             "http_code": 200,
-            "sha256": "83542c4daaa723efab5631980720dab34c12da5939111ed25f237c6cf6520c97",
-            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
-            "build": "1.5.6"
+            "sha256": "c7ec4c749ad63aa9069fa84281dc0d9605f51737d9aa82cbf32e8c5c034767c7",
+            "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
+            "build": "1.5.7"
         },
         "apply": {
             "http_code": 200,
-            "sha256": "11fb001eaf1513e4febbb6b17ce3958bf3248b5f395375ead83c17c213182cd2",
-            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
-            "build": "1.5.6"
+            "sha256": "52ab5df57905a3185b2f6eb84bcd8faae574e36e45696f2f6373cc5959d76fd0",
+            "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
+            "build": "1.5.7"
         },
         "life": {
             "http_code": 200,
-            "sha256": "133a51097f6798b3e08b855e9902c738260fbf949356af7aba6e56f288284b36",
-            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
-            "build": "1.5.6"
+            "sha256": "56b4db2eb047987fa2495bb60760e147e209ed55a0065ddbbcd313e8a57dfac6",
+            "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
+            "build": "1.5.7"
         },
         "why": {
             "http_code": 200,
-            "sha256": "b5a4a836fe6c9c89a5f1a965e71c46dea1290f51f179832926880659782a70bf",
-            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
-            "build": "1.5.6"
+            "sha256": "bb4aa63c301eb520e0e89fd1bbe3dfc0bed1e984b82173e0dbd0c2d6eca580fd",
+            "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
+            "build": "1.5.7"
         },
         "explore": {
             "http_code": 410,
-            "sha256": "e690c298eb90b1a6a18a29f3d05bbfec3300e4a77c9be94ac3008d10760d56e0",
-            "fingerprint": "68805c8b59e86aca023a1e70e0ff2c387595c6ab9d795f4b8068572abc5d8c0e",
-            "build": "1.5.6"
+            "sha256": "d2780d490b357c3260a9fa4d8194f5f4c75bd882ca599b4de8d3d5966886ea25",
+            "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
+            "build": "1.5.7"
         },
         "engine": {
             "http_code": 200,
             "sha256": "2e5926af7e839f70a0b2888b8668ff7a443551d48a42f63e7b42dcf4160ff086",
             "fingerprint": null,
             "build": null
+        },
+        "login": {
+            "http_code": 200,
+            "sha256": "5d2f3bc8b729575e1e4491dd81b4af26eeb4681243691fe41ac1e39362e9224a",
+            "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
+            "build": "1.5.7"
         }
     },
     "role_capability_fingerprints": {
@@ -76,7 +82,8 @@
         "installed_browser_autoplay_controls_and_links",
         "installed_mobile_widths_and_zoom",
         "joining_route_and_signin_browser_test",
-        "joining_submission_end_to_end_when_gates_open",
+        "joining_submission_and_verification_end_to_end",
+        "admitted_member_password_setup_and_login",
         "real_device_touch_and_reading",
         "authorised_member_view",
         "role_capability_before_after_comparison",
@@ -90,6 +97,6 @@
     ],
     "mirror": {
         "source": "landing_plugin_public_summary",
-        "mirrored_at_utc": "2026-09-05T13:21:44+00:00"
+        "mirrored_at_utc": "2026-09-05T13:40:54+00:00"
     }
 }
