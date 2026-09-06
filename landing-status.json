@@ -1,7 +1,7 @@
 {
     "schema": "ttn-landing-public-audit-3",
     "public_safe": true,
-    "generated_at_utc": "2026-09-06T12:10:33+00:00",
+    "generated_at_utc": "2026-09-06T12:18:29+00:00",
     "installed_build": "1.5.7",
     "reported_build": "1.5.7",
     "build_fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
@@ -29,43 +29,43 @@
     "route_checks": {
         "home": {
             "http_code": 200,
-            "sha256": "dc20b278ee8ee91e9a6e5cb216239ffae16d0dfeb790402a1691cc7c4873695f",
+            "sha256": "e066ddd15d91b57c157c90e035d28ce9a9c51c5c9c6fa464dc0dbd057c5d8cce",
             "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
             "build": "1.5.7"
         },
         "apply": {
             "http_code": 200,
-            "sha256": "74aac38da8b7e340a19a3086e431e5ea2060873cc577ea70b8116212a60f2027",
+            "sha256": "3d46ba6a16141139339b398516eb736d94d03f67440a09c2f01742fd23bf8885",
             "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
             "build": "1.5.7"
         },
         "life": {
             "http_code": 200,
-            "sha256": "dc0b3854a9511e9da3aa7f9f8eb48f419001544c76f3b74b92ed6255560506fd",
+            "sha256": "8ef4264bf969b5dbf939e4e93b71eca9d14bdf6dbc7d7910d2b4c4f8b010b56e",
             "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
             "build": "1.5.7"
         },
         "why": {
             "http_code": 200,
-            "sha256": "e320723de06540c148e038f32770029c14178260f3fbf16ef5d65acd71469979",
+            "sha256": "e07fe2c4fe296e6789182eabe2fe6845d345decf21409237151447ea9769d273",
             "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
             "build": "1.5.7"
         },
         "explore": {
             "http_code": 410,
-            "sha256": "874b5f5a79748471d9d17f7316a36d77d84f6700428d615aefcb2f44e0a9feb7",
+            "sha256": "282fafef885c5c57a8d63310fb1d4a2a57c32978ae86024b2199e0548a97979b",
             "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
             "build": "1.5.7"
         },
         "engine": {
             "http_code": 200,
-            "sha256": "a6b553a6372628e6019c5fc335b816c189a87437cd8758f486d175eb8f4181ac",
+            "sha256": "f6ddc115bdf02d5c5b71fb55654b26d64ddfb4daef4ebb785b5d68dd7ff9cc86",
             "fingerprint": null,
             "build": null
         },
         "login": {
             "http_code": 200,
-            "sha256": "e803b3b5e5eb88a364574976490f212502574fdc5b026b153e1d6f6b605db7e4",
+            "sha256": "6e03eebc3ea49747741967d2041064cade1d5361e81a7bbce12fe5579093ddb9",
             "fingerprint": "9aba3c43d37f556bd8c0dd5b52813827866e9a28f17b17ef46ccfc3ee851d1c6",
             "build": "1.5.7"
         }
@@ -97,6 +97,6 @@
     ],
     "mirror": {
         "source": "landing_plugin_public_summary",
-        "mirrored_at_utc": "2026-09-06T12:10:33+00:00"
+        "mirrored_at_utc": "2026-09-06T12:18:29+00:00"
     }
 }
