@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-07-landing-current-state-refresh-1545",
+  "id": "2026-09-07-pre-final-human-run-full-audit-1822",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-07T14:45:00Z",
-  "expires_at_utc": "2026-09-07T17:45:00Z",
-  "note": "CURRENT-STATE REFRESH under STRICT NO-DRIFT and V1 Master Code/Plugin/Update Quality Gate. Diagnostics only; no mutation. Verify the actually installed AUDIT landing build and exact current front/back-door state. Report current Home HTTP/fingerprint/content identity; current active plugin list including LiteSpeed Cache, Life SOS Journey, Founder-Locked Landing Evolution, Discord Fire Pass and MCP if present; no public WordPress registration; current noindex state; protected components/snippets/roles; all high-risk feature flags; Home/Apply/Explore/Life SOS/private Tribe routes; raw placeholders; current landing public identity and three-door labels; cron health; technical gate P0/P1/P2/holds. Do not claim V1.5.3 installed unless directly observed. This refresh supersedes the expired 5 Sep command and is for accurate 7 Sep progress reporting only."
+  "issued_at_utc": "2026-09-07T17:22:30Z",
+  "expires_at_utc": "2026-09-07T20:22:30Z",
+  "note": "PRE-FINAL-HUMAN-RUN FULL RELEASE AUDIT under STRICT NO-DRIFT. DIAGNOSTICS ONLY; absolutely no mutation. Independently verify the current audit/staging baseline and the bounded production front/back door before Malcolm's 8 September incognito Tribe member + Discord acceptance run. Required: fresh Home and bounded same-site production route probes; public identity/CTA integrity; Apply, member sign-in and private Tribe/Gate boundary health where public-safe probing permits; no public WordPress self-registration; no raw placeholders; current governance links; protected Life SOS markers and no six-page drift; protected components/snippets/roles; high-risk feature flags/payment/external-AI/open community/DM/uploads/directory/matching/events/polling/advocacy remain OFF; active staging-only tooling must remain host-locked; security/header and accessibility heuristics; cron/QA freshness; production broken-link scan; P0/P1/P2/HOLD register. Do not alter production, users, roles, applications, governance, plugins, themes, settings, payments, AI or Discord. Report limitations honestly. This evidence is preparatory only and must not mark the real human Discord member session PASS."
 }
