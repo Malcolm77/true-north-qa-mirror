@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-05-landing-153-baseline-1021",
+  "id": "2026-09-07-landing-current-state-refresh-1545",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-05T10:21:00Z",
-  "expires_at_utc": "2026-09-05T17:21:00Z",
-  "note": "Refresh existing safe staging diagnostics before the controlled landing update. Diagnostic operations only. Do not change content, plugins, users, roles, admission, protected snippets, payments, AI, feature flags or production. Report the actually installed landing build, current component/snippet integrity, access and registration boundaries, protected Life SOS marker, feature states, governance draft holds, cron health and check timestamps. This is baseline evidence only and must not be labelled a pass for the uninstalled 1.5.3 build. No private content or credentials in public output."
+  "issued_at_utc": "2026-09-07T14:45:00Z",
+  "expires_at_utc": "2026-09-07T17:45:00Z",
+  "note": "CURRENT-STATE REFRESH under STRICT NO-DRIFT and V1 Master Code/Plugin/Update Quality Gate. Diagnostics only; no mutation. Verify the actually installed AUDIT landing build and exact current front/back-door state. Report current Home HTTP/fingerprint/content identity; current active plugin list including LiteSpeed Cache, Life SOS Journey, Founder-Locked Landing Evolution, Discord Fire Pass and MCP if present; no public WordPress registration; current noindex state; protected components/snippets/roles; all high-risk feature flags; Home/Apply/Explore/Life SOS/private Tribe routes; raw placeholders; current landing public identity and three-door labels; cron health; technical gate P0/P1/P2/holds. Do not claim V1.5.3 installed unless directly observed. This refresh supersedes the expired 5 Sep command and is for accurate 7 Sep progress reporting only."
 }
