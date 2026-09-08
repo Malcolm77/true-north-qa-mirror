@@ -1,9 +1,9 @@
 {
-    "command_id": "2026-09-05-landing-153-baseline-1021",
+    "command_id": "2026-09-07-buddypress-rc2-final-safe-audit-2110",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-09-07T05:31:49+00:00",
+    "completed_at_utc": "2026-09-08T05:09:29+00:00",
     "ok": false,
-    "status": "rejected_command_too_old",
+    "status": "rejected_command_expired",
     "result": [],
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
