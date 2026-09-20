@@ -1,9 +1,9 @@
 {
   "schema": "tnfl-command-1",
-  "id": "2026-09-07-buddypress-rc2-final-safe-audit-2110",
+  "id": "2026-09-20-step3-control-plane-1014-102835",
   "action": "run_safe_qa",
   "target_host": "audit.truenorthsos.com",
-  "issued_at_utc": "2026-09-07T21:10:00Z",
-  "expires_at_utc": "2026-09-08T00:10:00Z",
-  "note": "FINAL PRE-HUMAN SAFE QA under STRICT NO-DRIFT after production installation of The Tribe Network BuddyPress Facebook-Feel Port 1.0.0-rc2. DIAGNOSTICS ONLY; absolutely no mutation. Re-check the current audit/staging baseline and bounded public-safe production probes for tribe-sos.com. Verify public identity and CTA integrity; Home renders without obsolete Discord-room-preparation or Hunt/Fire-Pass mechanics where observable; Apply and sign-in boundaries remain controlled; /tribe-network/, /members/ and /activity/ do not expose private member data anonymously; public WordPress self-registration remains off; Constitution, Community Standards, Membership & Community Terms and Privacy Policy resolve and do not contradict the native private member-feed model; Life SOS six-page journey and protected components remain untouched; payment, external AI private cases, public member directory, DMs, uploads, matching, events, polling and advocacy remain off; staging-only QA tooling remains host-locked. Report P0/P1/P2/HOLD items and limitations honestly. Do not mark logged-in posting/commenting or the final member acceptance journey PASS unless directly proven. Discord is no longer the launch community route and should not be required for PASS."
+  "issued_at_utc": "2026-09-20T10:28:35Z",
+  "expires_at_utc": "2026-09-20T12:28:35Z",
+  "note": "Step 3 deployment verification only. Diagnostics only, no mutation. Check currently installed Control Plane version, runtime plugin health, account route reachability and anonymous access boundaries. Candidate 1.0.14 repairs held-member session revocation and password-setup mail error reporting. Report the actual installed version and distinguish source checks from exercised flows. Do not mark either repair runtime-proven if not exercised. Preserve all gates and real member data. Do not send mail, open applications, enable payments, enable external AI or access any mailbox. Await user plugin upload if version 1.0.14 is not installed."
 }
