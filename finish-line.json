@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-09-21T08:25:06+00:00",
+        "generated_at_utc": "2026-09-21T08:25:08+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "fb00cab25ede5355cf51007d6e4fa05ca7c28d925d73274bf8e8af511a56d316"
+        "fingerprint": "93cd1817599c74fea90a41cf4947ef129bc149527be6db6696e19392b3190a73"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -368,7 +368,7 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 407
+            "response_ms": 399
         },
         "tribe_anonymous": {
             "http_code": 302,
@@ -379,15 +379,15 @@
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 253,
+            "response_ms": 280,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 457,
-        "html_sha256": "1d27a2d5c8da62a1f515c3b4dd1d6ba22f3e4a9eb10e6c7ae14184ee7b06a097",
+        "response_ms": 402,
+        "html_sha256": "11890e93b6ac33f58d65a7fb1a4722367f406c67e470b309e6ef3bd7a8cb43a8",
         "html_bytes": 152620,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -457,8 +457,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "2135afada6ae6d36ba522900ac269d6731b51bd8c73f41f6f3da7190611699ab",
-            "home": "6fce9078f579872e1d44cdc5e99da68251a3ca24555fad8f719d6da75531b91e"
+            "routes": "408f45fece3700f371e18c3f26e20b818169ef03239a392bb238ac57f74dc3d3",
+            "home": "180de0c7627a30148495ba035eb5805ed76e35f86cdde4f0dd698984fa052330"
         }
     },
     "privacy_exclusions": [
