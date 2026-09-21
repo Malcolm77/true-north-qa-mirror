@@ -1,9 +1,9 @@
 {
     "command_id": "2026-09-20-step3-control-plane-1014-102835",
     "action": "run_safe_qa",
-    "completed_at_utc": "2026-09-20T16:08:38+00:00",
+    "completed_at_utc": "2026-09-21T01:10:35+00:00",
     "ok": false,
-    "status": "rejected_command_expired",
+    "status": "rejected_command_too_old",
     "result": [],
     "autopilot_version": "0.3.1",
     "host": "audit.truenorthsos.com"
