@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-10-07T12:57:55+00:00",
+        "generated_at_utc": "2026-10-08T05:35:43+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "317e1c48f96e22d8e0957d1bb83c16c4d260b5d0a3e756a6dd0df14de3a1b7f2"
+        "fingerprint": "054f94795e209548b95d22f9e5d0851833a264e2489962e42edea9bfb57d39d7"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -365,29 +365,29 @@
     },
     "routes": {
         "home": {
-            "http_code": 503,
+            "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 53
+            "response_ms": 421
         },
         "tribe_anonymous": {
-            "http_code": 503,
-            "location": "",
+            "http_code": 302,
+            "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 46
+            "response_ms": 271
         },
         "life_sos": {
-            "http_code": 503,
+            "http_code": 200,
             "error": null,
-            "response_ms": 51,
-            "marker_detected": false
+            "response_ms": 235,
+            "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 460,
-        "html_sha256": "7f967d8e38eefe69e92e07656fc9a487cb950169d2a88fb899ce1c76a6207075",
+        "response_ms": 395,
+        "html_sha256": "578af15b045e1b51146bfe8f61bce8dc9a85c92adf1bddd1b8d0c5ccb57b4f9d",
         "html_bytes": 152620,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -402,27 +402,6 @@
         "unlabelled_buttons": 0
     },
     "risks": [
-        {
-            "id": "TNFL-P0-TRIBE",
-            "severity": "P0",
-            "area": "tribe_access",
-            "problem": "Anonymous Tribe route is not clearly blocked by the expected authentication boundary.",
-            "blocking": true
-        },
-        {
-            "id": "TNFL-P1-LIFESOS",
-            "severity": "P1",
-            "area": "life_sos",
-            "problem": "Life SOS route is not healthy.",
-            "blocking": true
-        },
-        {
-            "id": "TNFL-P1-MARKER",
-            "severity": "P1",
-            "area": "life_sos",
-            "problem": "Expected Life SOS renderer marker not detected on the Life SOS route.",
-            "blocking": true
-        },
         {
             "id": "TNFL-HOLD-72E6E7",
             "severity": "HOLD",
@@ -453,10 +432,10 @@
         }
     ],
     "technical_gate": {
-        "pass": false,
-        "blocking_failures": 3,
-        "p0": 1,
-        "p1": 2,
+        "pass": true,
+        "blocking_failures": 0,
+        "p0": 0,
+        "p1": 0,
         "p2": 0,
         "holds": 4
     },
@@ -478,8 +457,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "29409326d0401955dc0b17f0b4c7f0726558c0720e2a74f9983061b777fba54b",
-            "home": "1d9343eb73d83e978c93d5e8e3e5e597ae920b2f8262a7c71fc4d9c863bdbdcc"
+            "routes": "a6e0183cbb635eb70db87013e1d1e1f39ab747258107d68505a6916b5a15924d",
+            "home": "1653e45c8d27db20c496e7d1b622d5e5367cb229eb95a6fdf2d291e6b1a50871"
         }
     },
     "privacy_exclusions": [
