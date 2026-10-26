@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-10-26T07:16:06+00:00",
+        "generated_at_utc": "2026-10-26T09:33:44+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "a8fd8a102024be51038ce03a3ef04a88636623a6d5fac04b8113f2c590e4837b"
+        "fingerprint": "ef3acf127ec7f068947d6f25d27ee8e605f7a1cf00f5bbee5bc468e2f8557d9a"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -368,26 +368,26 @@
             "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 382
+            "response_ms": 392
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 246
+            "response_ms": 231
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 307,
+            "response_ms": 243,
             "marker_detected": true
         }
     },
     "home": {
         "http_code": 200,
         "error": null,
-        "response_ms": 414,
-        "html_sha256": "037a8c884f9265f19bdf5d4094c5b2087c76e5ddcd49e19b395f87f86e34e239",
+        "response_ms": 397,
+        "html_sha256": "b4ae57200ac489bf5d2d2421aca137aed0667dd8ebf0886e49177d1ec1154e38",
         "html_bytes": 152620,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
@@ -457,8 +457,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "587aaa221bb85ec98faf3182dabb868aa514bec19643965814dad97c0ae51a12",
-            "home": "6453ef5c669bf1224bb1381b14f54e59a1c4287f654f9996d7e88a41f36d0e39"
+            "routes": "71bba1a21745a56c8eb463b0eaa365847e3d814ac69ff2fef24d4d4a0e0f883b",
+            "home": "c0c7aec416ef9fea149a9e9caba6338533e099f6b760aa9426f4b422c1322927"
         }
     },
     "privacy_exclusions": [
