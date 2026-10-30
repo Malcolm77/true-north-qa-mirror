@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-10-29T06:38:12+00:00",
+        "generated_at_utc": "2026-10-30T06:36:20+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "4092c56b9c6dcea6655e51389a4560aac102c499dadbdd51892b8776a89d5902"
+        "fingerprint": "47447ac9c943a4269cc8a63a1b67b612252a3acbe31fafc618e5dcc476861e96"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -365,37 +365,37 @@
     },
     "routes": {
         "home": {
-            "http_code": 503,
+            "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 72
+            "response_ms": 562
         },
         "tribe_anonymous": {
             "http_code": 302,
             "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 284
+            "response_ms": 319
         },
         "life_sos": {
             "http_code": 200,
             "error": null,
-            "response_ms": 351,
+            "response_ms": 348,
             "marker_detected": true
         }
     },
     "home": {
-        "http_code": 503,
+        "http_code": 200,
         "error": null,
-        "response_ms": 58,
-        "html_sha256": "281a96a14fbec42769ed22c11270c2e3f95bf1ae1b4fda386bbb0d8fea810dc9",
-        "html_bytes": 2499,
+        "response_ms": 542,
+        "html_sha256": "0957b7b2ec59a0e551e52eca674bb3176beafd0ca5449a8ae30a87c8ad0fe870",
+        "html_bytes": 152620,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
         "newsletter_unavailable_text_detected": false,
-        "life_sos_marker_detected": false,
+        "life_sos_marker_detected": true,
         "viewport_meta_present": true,
-        "lang_attribute_present": false,
-        "h1_count": 0,
+        "lang_attribute_present": true,
+        "h1_count": 1,
         "title_present": true,
         "empty_href_count": 0,
         "images_without_alt": 0,
@@ -457,8 +457,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "ee9bd3ad090a2631f8c068e92472f112b17fea10b0372e3b71e6912d39db18e3",
-            "home": "80eb1d0d6f173979f0031024ec44cc938616a947a6a0b63a2870c3b3747f543c"
+            "routes": "e8aba4ef0647b9eecf046c148a67faa7633cb0a9d1c61883350a07054633c3ed",
+            "home": "acbb9d35396f830be6d0989c93c8bae6e9b79673db4e70343abead0856fd2a51"
         }
     },
     "privacy_exclusions": [
