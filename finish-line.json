@@ -3,11 +3,11 @@
         "name": "True North Finish-Line Autopilot",
         "version": "0.3.1",
         "mode": "current_status",
-        "generated_at_utc": "2026-11-19T06:36:33+00:00",
+        "generated_at_utc": "2026-11-20T06:36:14+00:00",
         "host": "audit.truenorthsos.com",
         "public_safe": true,
         "sealed_reference": "Controlled Alpha Release Seal 2026-08-29T11:33:53Z",
-        "fingerprint": "b8f9dd984b1865f64bbb127ddc7ce2d2888fb0ec72d511160c61a01f6feb37f7"
+        "fingerprint": "c7c9ab722b7205b7ec853628162c6dfa3826a7b7fd6e29101668ea2053cafb8e"
     },
     "site": {
         "name": "True North by Life SOS",
@@ -365,64 +365,43 @@
     },
     "routes": {
         "home": {
-            "http_code": 503,
+            "http_code": 200,
             "location": "",
             "error": null,
-            "response_ms": 64
+            "response_ms": 462
         },
         "tribe_anonymous": {
-            "http_code": 503,
-            "location": "",
+            "http_code": 302,
+            "location": "https://audit.truenorthsos.com/wp-login.php?redirect_to=https%3A%2F%2Faudit.truenorthsos.com%2Ftribe-network%2F",
             "error": null,
-            "response_ms": 95
+            "response_ms": 296
         },
         "life_sos": {
-            "http_code": 503,
+            "http_code": 200,
             "error": null,
-            "response_ms": 89,
-            "marker_detected": false
+            "response_ms": 285,
+            "marker_detected": true
         }
     },
     "home": {
-        "http_code": 503,
+        "http_code": 200,
         "error": null,
-        "response_ms": 83,
-        "html_sha256": "281a96a14fbec42769ed22c11270c2e3f95bf1ae1b4fda386bbb0d8fea810dc9",
-        "html_bytes": 2499,
+        "response_ms": 473,
+        "html_sha256": "7bd54d616c4443f4c063e1f1329af2b2611e884169d80677ab68ad34dcadbc02",
+        "html_bytes": 152620,
         "raw_theme_placeholders": [],
         "newsletter_form_detected": false,
         "newsletter_unavailable_text_detected": false,
-        "life_sos_marker_detected": false,
+        "life_sos_marker_detected": true,
         "viewport_meta_present": true,
-        "lang_attribute_present": false,
-        "h1_count": 0,
+        "lang_attribute_present": true,
+        "h1_count": 1,
         "title_present": true,
         "empty_href_count": 0,
         "images_without_alt": 0,
         "unlabelled_buttons": 0
     },
     "risks": [
-        {
-            "id": "TNFL-P0-TRIBE",
-            "severity": "P0",
-            "area": "tribe_access",
-            "problem": "Anonymous Tribe route is not clearly blocked by the expected authentication boundary.",
-            "blocking": true
-        },
-        {
-            "id": "TNFL-P1-LIFESOS",
-            "severity": "P1",
-            "area": "life_sos",
-            "problem": "Life SOS route is not healthy.",
-            "blocking": true
-        },
-        {
-            "id": "TNFL-P1-MARKER",
-            "severity": "P1",
-            "area": "life_sos",
-            "problem": "Expected Life SOS renderer marker not detected on the Life SOS route.",
-            "blocking": true
-        },
         {
             "id": "TNFL-HOLD-72E6E7",
             "severity": "HOLD",
@@ -453,10 +432,10 @@
         }
     ],
     "technical_gate": {
-        "pass": false,
-        "blocking_failures": 3,
-        "p0": 1,
-        "p1": 2,
+        "pass": true,
+        "blocking_failures": 0,
+        "p0": 0,
+        "p1": 0,
         "p2": 0,
         "holds": 4
     },
@@ -478,8 +457,8 @@
             "operations": "5782e1f64d183deeb71c865f4af5e872ad43a0e4075a2307233bb6e445df9c82",
             "commercial": "91e19a6dbea12f563c2c78826555a449058c611c7beb756e8e53066ede41a831",
             "founding": "73f49379e17659725723a9d1f8a8d55de63bd9ae0963422bb39627a4151f27c0",
-            "routes": "142225520896a7cc55aabbf865d7fcc6863cb3f3527d3054a97ef933a79c902c",
-            "home": "bf95163f1c16e6264ce501ec8f03fdbd65faed99cb9c83e30322ca473a6d3980"
+            "routes": "d245cf1d72d11db5348ff33b23c50f37d7e71e8f4bf54f756bd6415d7f136228",
+            "home": "485d0c52d1e0b7ac77085a705dd180ff619cdbef6c8fd1e9409cc06019b9b290"
         }
     },
     "privacy_exclusions": [
